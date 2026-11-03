@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="screenshots/campresso-logo.png" width="180" alt="Campresso Logo"/>
+</p>
 # ☕ Campresso
 
 ### Smart Campus Café Ordering & Crowd Prediction Application
