@@ -1,0 +1,1295 @@
+{
+  "@@locale": "en",
+
+  "goodMorning": "Good Morning",
+  "search": "Search",
+  "home": "Home",
+  "orders": "Orders",
+  "notification": "Notification",
+  "profile": "Profile",
+
+  "gettingLocation": "Getting location...",
+  "locationOff": "Location is off (turn it on)",
+  "locationPermissionDenied": "Location permission denied",
+  "locationError": "Location error",
+
+  "errorLoadingCafes": "Error loading cafes",
+  "noCafesFound": "No cafes found",
+  "noResults": "No results",
+
+  "crowded": "Crowded",
+  "low": "Low",
+  "medium": "Medium",
+  "high": "High",
+
+  "refreshLocation": "Refresh location",
+  "notificationsComingSoon": "Notifications (coming soon)",
+
+  "current": "Current",
+  "previous": "Previous",
+  "noCurrentOrders": "No current orders",
+  "noPreviousOrders": "No previous orders",
+  "view": "View",
+  "orderPlaced": "Order Placed",
+  "preparing": "Preparing",
+  "readyToPickup": "Ready to Pickup",
+  "completed": "Completed",
+  "cancelled": "Cancelled",
+  "inProgress": "In progress",
+
+  "distance": "Distance",
+  "crowdLevel": "Crowd Level",
+  "calories": "Calories",
+  "preparationTime": "Preparation Time",
+  "minutes": "minutes",
+  "sar": "SAR",
+  "errorLoadingProducts": "Error loading products",
+  "cal": "Cal",
+  "min": "min",
+  "noCustomizations": "No customizations for this product.",
+  "noCustomization": "No customization for this product.",
+  "required": "Required",
+  "pleaseChoose": "Please choose",
+  "youCanAddUpTo": "You can add up to",
+  "options": "options",
+  "addToCart": "Add to Cart",
+  "addedToCart": "Added to cart ✅",
+  "maxOptions": "Max options",
+
+  "delivery": "Delivery",
+  "availableForDelivery": "Available for Delivery",
+  "deliveryToggleHint": "Turn on if you can deliver orders on campus right now.",
+  "deliveryEnabled": "Delivery mode enabled ✅",
+  "deliveryDisabled": "Delivery mode disabled ❌",
+
+  "settings": "Settings",
+  "myAccount": "My Account",
+  "paymentMethod": "Payment Method",
+  "aboutUs": "About Us",
+  "contactUs": "Contact Us",
+  "languages": "Languages",
+  "privacyPolicy": "Privacy Policy",
+  "helpCenter": "Help Center",
+
+  "logoutConfirm": "Are you sure you want to logout?",
+  "cancel": "Cancel",
+  "loggedOut": "Logged out",
+
+  "noUserSignedIn": "No user signed in",
+  "noEmail": "No email",
+
+  "fullNameLabel": "FULL NAME",
+  "emailAddressLabel": "EMAIL ADDRESS",
+  "passwordLabel": "PASSWORD",
+  "change": "Change",
+
+  "payment": "Payment",
+  "addCreditCard": "Add Credit Card",
+  "cardAddedSuccessfully": "Card added successfully ✅",
+  "noCardsTitle": "Don’t have any card\n:)",
+  "noCardsSubtitle": "It seems like you have not added any\ncredit or debit card. You may easily add\ncard.",
+  "visa": "Visa",
+  "masterCard": "Master Card",
+
+  "whoWeAre": "Who We Are",
+  "aboutUsDescription": "Campresso is a mobile application designed to enhance the café experience on campus. Our goal is to make ordering easier, faster, and more organized for students, café staff, and administrators.\n\nThrough Campresso, customers can browse cafés, explore menus, place orders, and track them in real time. Café staff can efficiently manage incoming orders, update order status, and organize their workflow.\n\nCampresso aims to bridge the gap between customers and cafés by providing a smart, reliable, and user-friendly digital solution.",
+
+  "letsTalk": "Let’s talk with us",
+  "contactDescription": "Questions, comments, or suggestions? Simply fill in the form and we’ll be in touch shortly.",
+  "name": "Name",
+  "email": "Email",
+  "message": "Message",
+  "messageHint": "What would you like to say?",
+  "send": "Send",
+  "enterName": "Enter your name",
+  "enterEmail": "Enter your email",
+  "invalidEmail": "Invalid email address",
+  "writeMessage": "Write a message",
+  "messageTooShort": "Message is too short",
+  "messageSent": "Message sent successfully ✅",
+  "sendFailed": "Failed to send",
+
+  "suggested": "Suggested",
+  "arabicSA": "Arabic (SA)",
+  "englishUS": "English (US)",
+
+  "cardHolder": "Card Holder",
+  "cardNumber": "Card Number",
+  "valid": "Valid",
+  "cvv": "CVV",
+  "save": "Save",
+  "done": "Done",
+  "selectExpiry": "Select Expiry",
+
+  "failedToSaveCard": "Failed to save card",
+  "requiredField": "Required",
+  "tooShort": "Too short",
+  "enterCardHolderName": "Enter card holder name",
+  "enterCardNumber": "Enter card number",
+  "cardNumberTooShort": "Card number is too short",
+
+  "changePasswordTitle": "Change Password",
+  "securityCheckTitle": "SECURITY CHECK",
+  "currentPasswordHint": "Current password",
+  "enterCurrentPassword": "Enter your current password",
+  "passwordTooShort": "Password seems too short",
+
+  "newPasswordTitle": "NEW PASSWORD",
+  "newPasswordHint": "New password",
+  "enterNewPassword": "Enter a new password",
+  "minSixChars": "Minimum 6 characters",
+  "newPasswordMustBeDifferent": "New password must be different",
+
+  "confirmNewPasswordTitle": "CONFIRM NEW PASSWORD",
+  "confirmNewPasswordHint": "Confirm new password",
+  "confirmNewPassword": "Confirm your new password",
+  "passwordsDoNotMatch": "Passwords do not match",
+
+  "updatePassword": "Update Password",
+
+  "noSignedInUserFound": "No signed-in user found.",
+  "passwordUpdatedLoginAgain": "Password updated. Please log in again ✅",
+  "errorPrefix": "Error",
+
+  "errWrongPassword": "Current password is incorrect.",
+  "errWeakPassword": "New password is too weak (minimum 6 characters).",
+  "errRequiresRecentLogin": "For security, please log in again and retry.",
+  "errTooManyRequests": "Too many attempts. Try again later.",
+  "errGeneric": "Something went wrong. Please try again.",
+
+  "onbTitle1": "Real-Time Updates",
+  "onbDesc1": "Track your order & know when it's ready.",
+  "onbCaption1": "Pick Based on Your Time",
+
+  "onbTitle2": "Smart Ordering",
+  "onbDesc2": "Order ahead & customize your favorite drink",
+  "onbCaption2": "Skip the Line, Skip the Hassle",
+
+  "onbTitle3": "Peak-Hour Avoidance",
+  "onbDesc3": "Avoid busy times with smart predictions.",
+  "onbCaption3": "Skip the Queue, Sip More",
+
+  "getStarted": "Get Started",
+
+  "loginTitle": "Log in",
+  "emailLabel": "Email",
+  "emailHint": "mail@pnu.edu.sa",
+  "enterYourEmail": "Enter your email",
+  "invalidEmailSimple": "Invalid email",
+
+  "passwordHintDots": "••••••••",
+  "enterYourPassword": "Enter your password",
+
+  "forgotPassword": "Forgot password?",
+  "forgotPasswordClicked": "Forgot password clicked",
+
+  "loginButton": "Log in",
+
+  "noAccountPrompt": "You don’t have an account? ",
+  "createAccountAction": "Create",
+
+  "loginFailed": "Login failed",
+  "noUserFoundForThisEmail": "No user found for this email",
+  "incorrectPassword": "Incorrect password",
+  "invalidEmailAddress": "Invalid email address",
+
+  "emailDomainNotAllowed": "Email domain is not allowed.",
+
+  "signUpTitle": "Sign up",
+
+  "firstNameLabel": "First Name",
+  "firstNameHint": "First Name",
+  "enterFirstName": "Enter first name",
+
+  "lastNameLabel": "Last Name",
+  "lastNameHint": "Last Name",
+  "enterLastName": "Enter last name",
+
+  "setPasswordLabel": "Set Password",
+  "passwordMustBe6Chars": "Password must be 6+ chars",
+
+  "registerButton": "Register",
+
+  "alreadyHaveAccountPrompt": "Already have an account? ",
+  "loginAction": "Login",
+
+  "onlyPnuEmailsCanRegister": "Only @pnu.edu.sa emails can register",
+  "accountCreatedPleaseLogin": "Account created successfully. Please log in.",
+
+  "registrationFailed": "Registration failed",
+  "emailAlreadyInUse": "Email already in use",
+  "weakPasswordMin6": "Weak password (min 6 chars)",
+  "emailPasswordSignInDisabled": "Email/Password sign-in is disabled in Firebase",
+
+  "errorSavingUserData": "Error saving user data",
+
+  "mapGoodMorning": "Good Morning",
+  "mapLocationSubtitle": "Princess Nourah University",
+
+  "selectUpTo": "Select up to {count}",
+  "@selectUpTo": { "placeholders": { "count": { "type": "int" } } },
+
+  "selectExact": "Select {count} of {count}",
+  "@selectExact": { "placeholders": { "count": { "type": "int" } } },
+
+  "remaining": "Remaining: {count}",
+  "@remaining": { "placeholders": { "count": { "type": "int" } } },
+
+  "checkoutTitle": "Checkout",
+  "checkoutCartEmpty": "Your cart is empty",
+  "checkoutSelectPickupTime": "Select Pickup Time",
+  "checkoutPickupNow": "Pickup Now",
+  "checkoutScheduleOrder": "Schedule Order",
+  "checkoutSelectTransportMode": "Select Transport Mode",
+  "checkoutWalking": "Walking",
+  "checkoutMetro": "Metro",
+  "checkoutDelivery": "Delivery",
+  "checkoutYourEstimatedPickup": "Your Estimated Pickup",
+  "checkoutPreparationTime": "Preparation Time",
+  "checkoutJourneyTime": "Journey Time",
+  "checkoutPeakHourDelay": "Peak-hour Delay",
+  "checkoutTotalEstimatedTime": "Total Estimated Time",
+  "checkoutReadyAround": "Ready around",
+  "checkoutArriveReceiveAround": "Arrive/Receive around",
+  "checkoutPaymentMethod": "Payment Method",
+  "checkoutYourCart": "Your Cart",
+  "checkoutPlaceOrder": "Place Order",
+  "checkoutApplePay": "Apple Pay",
+  "checkoutGooglePay": "Google Pay",
+  "checkoutCashOnDelivery": "Cash on delivery",
+  "checkoutChoosePaymentMethod": "Choose payment method",
+  "checkoutPayWhenReceive": "Pay when you receive your order",
+  "checkoutChange": "Change",
+  "checkoutTotalLabel": "Total",
+  "applePayError": "Apple Pay error",
+  "googlePayError": "Google Pay error",
+
+  "checkoutPaySar": "Pay {amount} SAR",
+  "@checkoutPaySar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "checkoutLineSar": "Line: {amount} SAR",
+  "@checkoutLineSar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "checkoutItemsCount": "Items: {count}",
+  "@checkoutItemsCount": { "placeholders": { "count": { "type": "int" } } },
+
+  "checkoutTotalSar": "Total: {amount} SAR",
+  "@checkoutTotalSar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "minutesCount": "{count} minutes",
+  "@minutesCount": { "placeholders": { "count": { "type": "int" } } },
+
+  "orderSuccessTitle": "Yay! Your order\nhas been placed.",
+  "orderSuccessEstimatedTime": "Estimated time",
+  "orderSuccessAmountPaid": "Amount Paid",
+  "orderSuccessTrackMyOrder": "Track my order",
+
+  "amountSar": "{amount} SAR",
+  "@amountSar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "orderTrackingTitle": "Order",
+  "orderTrackingNotFound": "Order not found",
+
+  "orderTrackingOrderNumber": "Order #{number}",
+  "@orderTrackingOrderNumber": { "placeholders": { "number": { "type": "String" } } },
+
+  "orderTrackingReadyIn": "READY TO PICK UP IN...",
+  "orderTrackingShortOrderNumber": "Order#{number}",
+  "@orderTrackingShortOrderNumber": { "placeholders": { "number": { "type": "String" } } },
+
+  "orderTrackingPickupAt": "Pickup at: {time}",
+  "@orderTrackingPickupAt": { "placeholders": { "time": { "type": "String" } } },
+
+  "orderTrackingQrHint": "Show Your QR Code in Cafe To Get\nReward Point",
+  "orderTrackingViewDetails": "View Detail Order",
+
+  "orderTrackingPlaced": "Order Placed",
+  "orderTrackingPreparing": "Preparing",
+  "orderTrackingReadyToPickup": "Ready to Pickup",
+
+  "orderDetailsTitle": "Order",
+  "orderDetailsError": "Error",
+  "orderDetailsNotFound": "Order not found",
+
+  "orderDetailsAppBar": "Order #{id}",
+  "@orderDetailsAppBar": { "placeholders": { "id": { "type": "String" } } },
+
+  "orderDetailsHeader": "Order#{id}",
+  "@orderDetailsHeader": { "placeholders": { "id": { "type": "String" } } },
+
+  "orderDetailsItems": "Items ({count})",
+  "@orderDetailsItems": { "placeholders": { "count": { "type": "int" } } },
+
+  "orderDetailsCafeDetails": "Cafe Details",
+  "orderDetailsLocation": "Location",
+  "orderDetailsReadyAt": "Ready at",
+  "orderDetailsCafeFallback": "Cafe",
+
+  "orderDetailsPaymentMethod": "Payment Method",
+  "orderDetailsPaid": "Paid",
+  "orderDetailsTotal": "Total",
+
+  "paymentCashOnDelivery": "Cash on delivery",
+  "paymentOnline": "Online payment",
+  "paymentApplePay": "Apple Pay",
+  "paymentGooglePay": "Google Pay",
+
+  "privacyPolicyTitle": "Privacy Policy",
+  "policiesLastUpdate": "Last Update: {date}",
+  "@policiesLastUpdate": { "placeholders": { "date": { "type": "String" } } },
+
+  "policiesIntro": "We may update this policy periodically to reflect changes in our practices, legal requirements, or improvements to the application. Users will be notified of significant updates, and continued use of the app after changes means acceptance of the updated policy.",
+
+  "termsAndConditionsTitle": "Terms & Conditions",
+  "termsAndConditionsIntro": "By using the Campresso application, you agree to the following terms and conditions:",
+
+  "policy1Title": "Data Collection",
+  "policy1Body": "We collect only the necessary information required to operate and improve our services, such as account details, preferences, and usage patterns. No unnecessary personal data will be collected.",
+
+  "policy2Title": "Use of Information",
+  "policy2Body": "Collected data is used solely to enhance user experience, personalize services, and ensure smooth functionality of the app. Your information will not be sold or shared with third parties without your explicit consent, unless required by law.",
+
+  "policy3Title": "User Responsibility",
+  "policy3Body": "Users are responsible for maintaining the confidentiality of their account credentials and ensuring accurate information is provided during registration.",
+
+  "policy4Title": "Security Measures",
+  "policy4Body": "We implement industry-standard security practices to protect stored data from unauthorized access, misuse, or alteration.",
+
+  "policy5Title": "Third-Party Services",
+  "policy5Body": "If the app integrates third-party tools or payment gateways, their respective privacy and security policies apply as well.",
+
+  "policy6Title": "Right to Access and Delete Data",
+  "policy6Body": "Users may request to view, update, or delete their personal data at any time through the app’s support channel.",
+
+  "policy7Title": "Acceptance of Policy",
+  "policy7Body": "By continuing to use the app, you acknowledge that you have read, understood, and agreed to this Privacy Policy and Terms & Conditions.",
+
+  "policiesFooter": "Campresso • Privacy & Terms",
+
+  "helpCenterTitle": "Help Center",
+
+  "helpQ1": "How do I create an account?",
+  "helpA1": "Go to the Registration page, fill in the required details, and submit the form.",
+
+  "helpQ2": "How can I reset my password?",
+  "helpA2": "Use the “Forgot Password” option on the Login page to receive a reset link.",
+
+  "helpQ3": "Where can I view my orders?",
+  "helpA3": "Open your Profile → “My Orders” section to view your current and previous orders.",
+
+  "helpQ4": "How do I contact support?",
+  "helpA4": "Go to Profile → Support and send us your message. We’ll respond as soon as possible.",
+
+  "helpQ5": "How do I cancel an order?",
+  "helpA5": "You can cancel an order if it hasn’t started preparing yet. Go to Orders → select the order → Cancel.",
+
+  "helpQ6": "Can I change the pickup time?",
+  "helpA6": "Yes. Before the order is prepared, you can update the scheduled pickup time from the order details.",
+
+  "helpQ7": "What payment methods are supported?",
+  "helpA7": "We support Cash on Delivery and Online Payment (Apple Pay / Google Pay) depending on your device.",
+
+  "helpQ8": "How do I earn reward points?",
+  "helpA8": "Show your QR code in the cafe when you pick up your order to earn reward points.",
+
+  "helpQ9": "Why can’t I see my order?",
+  "helpA9": "Check your internet connection and refresh the Orders page. If the issue continues, contact support.",
+
+  "helpQ10": "How do I change the app language?",
+  "helpA10": "Change the language from your device settings, then reopen the app.",
+
+  "logout": "Log out",
+  "logoutConfirmTitle": "Are you sure you want to log out?",
+  "yes": "Yes",
+
+  "notificationsTitle": "Notifications",
+  "notificationsTabAll": "All",
+  "notificationsTabOrders": "Orders",
+  "notificationsTabAds": "Ads",
+
+  "notificationsEmptyAllTitle": "No notifications yet",
+  "notificationsEmptyAllSubtitle": "When something new happens, you’ll see it here.",
+
+  "notificationsEmptyOrdersTitle": "No order updates",
+  "notificationsEmptyOrdersSubtitle": "Order status notifications will appear here.",
+
+  "notificationsEmptyAdsTitle": "No offers yet",
+  "notificationsEmptyAdsSubtitle": "Promotions and ads will appear here.",
+
+  "deliveries": "Deliveries",
+  "myOrders": "My Orders",
+  "noDeliveriesYet": "No deliveries available right now",
+
+  "deliveryWaitingTitle": "Waiting for a delivery partner...",
+  "deliveryWaitingSubtitle": "We are notifying available delivery partners now.",
+  "deliveryWaitingTimeHint": "Waiting time",
+  "deliveryWaitingNote": "If no one responds, you can switch to pickup or cancel.",
+  "deliveryNoResponseTitle": "No delivery partner responded",
+  "deliveryNoResponseBody": "Would you like to switch to pickup instead?",
+  "switchToPickup": "Switch to Pickup",
+  "cancelOrder": "Cancel Order",
+  "orderCancelled": "Order cancelled",
+  "error": "Error",
+
+  "deliveryRequestTitle": "Delivery Request",
+  "deliveryStatusLabel": "Delivery status",
+  "viewOrderDetails": "View order details",
+  "waitFiveMoreMinutes": "Wait 5 more minutes",
+
+  "accept": "Accept",
+  "notAvailable": "Not available",
+  "deliveryRequest": "Delivery Request",
+  "deliveryAccepted": "Delivery accepted",
+  "markedNotAvailable": "Marked as not available",
+  "customer": "Customer",
+  "deliveryLocationNotSet": "Delivery location not set",
+  "pending": "Pending",
+
+  "deliveryAlreadyTaken": "Another delivery partner already accepted this request",
+
+  "deliveryAcceptedTitle": "Delivery accepted",
+  "deliveryAcceptedBody": "A delivery partner has accepted your order. You can proceed with payment to continue.",
+  "ok": "OK",
+  "payNow": "Pay now",
+
+  "deliveryInfoTitle": "Delivery info",
+  "deliveryLocation": "Delivery location",
+  "deliveryPrivacyNote": "For privacy, payment details are hidden for delivery partners.",
+
+  "checkoutDeliveryOnlineOnlyNote": "Delivery requires online payment to avoid cash handling by the delivery partner.",
+  "checkoutLocked": "Locked",
+
+  "deliveryTipTitle": "Delivery Tip",
+  "deliveryTipSubtitle": "Choose a tip for the delivery partner",
+  "deliveryTipSelected": "Selected tip",
+  "deliveryOnlineOnlyNote": "Delivery orders require online payment (no cash).",
+  "locked": "Locked",
+  "deliveryPayAfterAccept": "Pay will be available after a delivery partner accepts your order.",
+
+  "deliveryPartnerBarcodeTitle": "Delivery Partner Barcode",
+  "deliveryPartnerBarcodeHint": "Show this barcode to the cafe when picking up the order.",
+  "customerBarcodeTitle": "Customer Barcode",
+  "customerBarcodeHint": "Use this barcode when receiving your order.",
+  "tapToViewDetails": "Tap to view order details",
+  "accepted": "Accepted",
+
+  "deliveryCustomerPhoneTitle": "Customer Contact",
+  "call": "Call",
+  "whatsApp": "WhatsApp",
+  "copiedToClipboard": "Phone number copied to clipboard",
+  "deliveryPhoneHint": "Use this number only for delivery coordination.",
+
+  "phoneNumberLabel": "Mobile Number",
+  "phoneNumberHint": "Enter your mobile number",
+  "enterPhoneNumber": "Please enter your phone number",
+  "invalidPhoneNumber": "Please enter a valid phone number",
+
+  "deliveryPartnerInfo": "Delivery Partner",
+  "customerContact": "Customer Contact",
+
+  "myTipsTitle": "My Tips",
+  "totalTipsLabel": "Total Tips",
+  "ordersLabel": "Orders",
+  "noTipsYetTitle": "No tips yet 🌱",
+  "noTipsYetSubtitle": "Start delivering orders to earn your first tip",
+  "tipEarnedLabel": "Tip Earned",
+
+  "orderNumberLabel": "Order #{number}",
+  "@orderNumberLabel": { "placeholders": { "number": { "type": "String" } } },
+
+  "tipAmountSar": "{amount} SAR",
+  "@tipAmountSar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "deliveryTipsHistory": "Tips History",
+  "deliveryTipsEmpty": "You haven’t received any tips yet",
+  "deliveryTipsEncouragement": "Complete deliveries to start earning tips 💚",
+  "tipStatusEarned": "Earned",
+
+  "tipDateFormat": "{day}/{month}/{year}",
+  "@tipDateFormat": {
+    "placeholders": {
+      "day": { "type": "String" },
+      "month": { "type": "String" },
+      "year": { "type": "String" }
+    }
+  },
+
+  "tipsHistoryTitle": "Tips History",
+
+  "tipPlusAmountSar": "+{amount} SAR",
+  "@tipPlusAmountSar": {
+    "description": "Tip amount with plus sign",
+    "placeholders": { "amount": { "type": "String" } }
+  },
+
+  "deliveryStepWaiting": "Waiting",
+  "deliveryStepAccepted": "Accepted",
+  "deliveryStepPreparing": "Preparing",
+  "deliveryStepOnTheWay": "On the way",
+  "deliveryStepDelivered": "Delivered",
+
+  "deliveryTrackingEtaTitle": "ESTIMATED TIME",
+  "deliveryTrackingEtaTime": "Estimated delivery time: {time}",
+  "@deliveryTrackingEtaTime": { "placeholders": { "time": { "type": "String" } } },
+
+  "confirmReceivedTitle": "Confirm",
+  "confirmReceivedBody": "Are you sure you received the order?\nAfter confirmation, the order will be completed and the tip will be released to the delivery partner.",
+  "receivedButton": "Received",
+  "receivedButtonHint": "The (Received) button will appear after the delivery partner accepts and the order is paid.",
+  "receivedSuccessSnack": "✅ Received confirmed and order completed.",
+
+  "deliveryLeaveTitle": "Leave delivery request?",
+  "deliveryLeaveBody": "Your delivery request is still waiting. You can continue from Order Tracking without losing it.",
+  "stayHere": "Stay",
+  "goToTracking": "Go to Tracking",
+
+  "invalidAmountError": "Invalid amount",
+
+  "deliveryPaymentStatus": "Payment: {status}",
+  "@deliveryPaymentStatus": { "placeholders": { "status": { "type": "String" } } },
+
+  "paidTrackOrderCta": "Paid ✓  •  Track Order",
+
+  "orderTrackingViewOrderDetails": "View order details",
+
+  "deliveryWaitingCardTitle": "Waiting for a delivery partner",
+  "deliveryWaitingCardBody": "Your request is visible to delivery partners. If no one accepts in time, you can wait more, switch to pickup, or cancel.",
+  "deliveryWaitingTimeLeft": "Time left: {time}",
+  "@deliveryWaitingTimeLeft": { "placeholders": { "time": { "type": "String" } } },
+
+  "manageDeliveryRequest": "Manage",
+  "waitingForDelivery": "Waiting for delivery",
+  "paymentSuccess": "Payment completed successfully",
+
+  "checkoutRefresh": "Refresh",
+  "deliveryNotAvailableNow": "No delivery partners are available right now.",
+  "deliveryTipValueLabel": "Delivery Tip Value",
+
+  "deliveryTipDistanceNote": "Because the distance between you and the cafe is above {distanceBucket}.",
+  "@deliveryTipDistanceNote": {
+    "description": "Shown under Delivery Tip Value to explain why this tip is applied.",
+    "placeholders": { "distanceBucket": { "type": "String", "example": "> 3 km" } }
+  },
+
+  "deliveryDistanceBucketUnder1km": "≤ 1 km",
+  "deliveryDistanceBucket1to3km": "1–3 km",
+  "deliveryDistanceBucketAbove3km": "> 3 km",
+
+  "tipsTitle": "Tips",
+
+  "staffCurrentOrdersTab": "Current Order",
+  "staffOrderHistoryTab": "Order History",
+
+  "staffNewOrders": "New Orders",
+  "staffPreparing": "Preparing",
+  "staffReadyForPickup": "Ready for\npickup",
+
+  "staffCompletedOrders": "Completed\nOrders",
+  "staffCancelledOrders": "Cancelled\nOrder",
+
+  "staffCurrentOrdersTitle": "Current Orders",
+  "staffPreviousOrdersTitle": "Previous Orders",
+
+  "staffStartPreparing": "Start Preparing",
+  "staffMarkAsReady": "Mark as Ready",
+  "staffCompleteOrder": "Complete Order",
+  "staffCancel": "Cancel",
+  "staffAction": "Action",
+
+  "staffStatusNew": "New",
+  "staffStatusPreparing": "Preparing",
+  "staffStatusReady": "Ready",
+  "staffStatusCompleted": "Completed",
+  "staffStatusCancelled": "Cancelled",
+
+  "staffSarAmount": "{amount} SAR",
+  "@staffSarAmount": { "placeholders": { "amount": { "type": "String", "example": "11.20" } } },
+
+  "staffEtaMinutes": "{mins} mins",
+  "@staffEtaMinutes": { "placeholders": { "mins": { "type": "int", "example": "17" } } },
+
+  "staffCancelDialogTitle": "Cancel Order",
+  "staffCancelDialogBody": "Are you sure you want to cancel this order?",
+  "staffCancelConfirm": "Cancel Order",
+
+  "staffStatusChangedNew": "Order status set to New.",
+  "staffStatusChangedPreparing": "Order is now preparing.",
+  "staffStatusChangedReady": "Order is ready for pickup.",
+  "staffStatusChangedCompleted": "Order completed.",
+  "staffStatusChangedCancelled": "Order cancelled.",
+
+  "staffOpenOrderDetails": "Open order details.",
+  "staffNavDashboard": "Dashboard",
+  "staffNavMenu": "Menu",
+  "staffNavAds": "Ads",
+  "staffNavProfile": "Profile",
+
+  "staffQrAction": "QR action",
+
+  "loginRouteMissingUser": "Cannot continue: user is missing.",
+  "loginNoUserProfile": "No user profile found.",
+  "loginRoleNotAllowed": "This account is not allowed.",
+  "staffDefaultCafeName": "Campresso Cafe",
+  "loginUserDisabled": "This account has been disabled.",
+  "loginTooManyRequests": "Too many attempts. Try again later.",
+
+  "staffNoCurrentOrders": "No current orders yet.",
+  "staffNoHistoryOrders": "No previous orders yet.",
+  "staffOrderItemsFallback": "Order items",
+
+  "staffCafeAccount": "Cafe Account",
+  "staffCafeAccountNotReady": "Cafe Account page is not ready yet.",
+  "staffNavNotReady": "This section is not ready yet.",
+  "staffCafeAccountTitle": "Cafe Account",
+  "staffEmailAddressLabel": "Email Address",
+  "staffPasswordLabel": "Password",
+  "staffEmailUnknown": "Unknown email",
+  "staffPasswordManagedNote": "Password is managed by Campresso and cannot be changed by staff.",
+  "staffNavOpen": "Open page",
+  "staffMenuComingSoon": "Menu (coming soon)",
+  "staffAdsComingSoon": "Ads (coming soon)",
+
+  "staffHelpQLogin": "How do I log into my staff account?",
+  "staffHelpALogin": "Use the staff email and password provided by Campresso (or your cafe manager).",
+
+  "staffHelpQForgotPassword": "What if I forget my password?",
+  "staffHelpAForgotPassword": "Contact Campresso support or your cafe manager to reset the account password.",
+
+  "staffHelpQWhenOrdersAppear": "When do orders appear for staff?",
+  "staffHelpAWhenOrdersAppear": "Orders appear in the dashboard only after the customer completes online payment.",
+
+  "staffHelpQViewNewOrders": "How do I view new orders?",
+  "staffHelpAViewNewOrders": "New paid orders appear under Current Orders. Use the counters to see how many are New, Preparing, or Ready.",
+
+  "staffHelpQUpdateStatus": "How do I update order status?",
+  "staffHelpAUpdateStatus": "Open Current Orders and use the button on the order card: Start Preparing → Mark as Ready → Complete Order.",
+
+  "staffHelpQCancelOrder": "How do I cancel an order?",
+  "staffHelpACancelOrder": "From the order card in Current Orders, tap Cancel and confirm. The customer will see the cancellation status.",
+
+  "staffHelpQDeliveryOrders": "Do I receive delivery orders too?",
+  "staffHelpADeliveryOrders": "Yes. Delivery orders also appear in the dashboard once paid, and you handle them the same way as pickup orders.",
+
+  "staffHelpQNoOrders": "What if there are no orders?",
+  "staffHelpANoOrders": "If the list is empty, there are currently no paid orders for your cafe. Check again later.",
+
+  "staffOrderDetailsTitle": "Order Details",
+
+  "staffOrderTitleNumber": "Order #{number}",
+  "@staffOrderTitleNumber": { "placeholders": { "number": { "type": "String" } } },
+
+  "staffOrderNotThisCafe": "This order does not belong to this cafe",
+
+  "staffItemsTitle": "Items ({count})",
+  "@staffItemsTitle": { "placeholders": { "count": { "type": "int" } } },
+
+  "staffNoItems": "No items",
+  "staffInvalidItemData": "Invalid item data",
+  "staffItemFallback": "Item",
+
+  "staffCustomerTitle": "Customer",
+  "staffNameLabel": "Name",
+  "staffPhoneLabel": "Phone number",
+
+  "staffCafeDetailsTitle": "Cafe Details",
+  "staffCafeLabel": "Cafe",
+  "staffPickupAtLabel": "Pickup time",
+
+  "staffOrderStatusTitle": "Order Status",
+  "staffStatusLabel": "Status",
+
+  "staffPaymentMethodLabel": "Payment Method",
+  "staffCash": "Cash on pickup",
+  "staffApplePay": "Apple Pay",
+  "staffPaid": "Paid",
+  "staffUnpaid": "Unpaid",
+
+  "staffPaymentTitle": "Payment",
+  "staffCafeAmountLabel": "Order amount",
+  "staffTipLabel": "Tip",
+  "staffTotalLabel": "Total",
+
+  "staffPreparingStartedAtLabel": "Started preparing",
+  "staffReadyAtLabel": "Ready at",
+  "staffCompletedAtLabel": "Completed at",
+
+  "staffSarAmountPlain": "{amount} SAR",
+  "@staffSarAmountPlain": { "placeholders": { "amount": { "type": "String" } } },
+
+  "staffDashPlaceholder": "—",
+
+  "staffOrderNotFound": "Order not found",
+
+  "staffOrderCafeMismatch": "This order does not belong to this cafe",
+
+  "staffUnknownCustomer": "Unknown customer",
+
+  "staffOrderHash": "Order #",
+
+  "staffCustomerNameLabel": "Customer Name",
+  "staffCustomerPhoneLabel": "Customer Phone",
+
+  "staffPaymentMethodTitle": "Payment Method",
+
+  "staffUnknownItem": "Unknown item",
+
+  "staffPayCashOnPickup": "Cash on pickup",
+  "staffPayOnline": "Online payment",
+  "staffPayUnknown": "Unknown payment method",
+
+  "staffPending": "Pending",
+  "staffCafeNameLabel": "Cafe",
+  "staffTimeUnknown": "—",
+
+
+  "staffMenuTitle": "Menu",
+  "staffMenuAddItem": "+Add Item",
+
+  "staffMenuTabHotCoffee": "Hot Coffee",
+  "staffMenuTabIcedCoffee": "Iced Coffee",
+  "staffMenuTabDonuts": "Donuts",
+  "staffMenuTabLabel": "Label",
+
+  "staffMenuNoItemsYet": "No items yet",
+  "staffMenuUnnamedItem": "Unnamed item",
+
+  "staffMenuAddItemTitle": "Add Item",
+  "staffMenuEditItemTitle": "Edit Item",
+  "staffMenuAddButton": "Add",
+
+  "staffMenuFieldNameEn": "Name (EN) *",
+  "staffMenuHintNameEn": "e.g. Original Coffee",
+  "staffMenuFieldNameAr": "Name (AR)",
+  "staffMenuHintNameAr": "مثال: قهوة أصلية",
+
+  "staffMenuFieldCategoryEn": "Category (EN)",
+  "staffMenuFieldCategoryAr": "Category (AR) (optional)",
+  "staffMenuHintCategoryAr": "مثال: قهوة ساخنة",
+
+  "staffMenuFieldImageAsset": "Image Asset (optional)",
+  "staffMenuHintImageAsset": "assets/images/cafes/...png",
+
+  "staffMenuFieldCalories": "Calories",
+  "staffMenuHintCalories": "e.g. 120",
+
+  "staffMenuFieldPrepMinutes": "Prep Minutes",
+  "staffMenuHintPrepMinutes": "e.g. 3",
+
+  "staffMenuFieldBasePrice": "Base Price (SAR)",
+  "staffMenuHintBasePrice": "e.g. 11.00",
+
+  "staffMenuAvailable": "Available",
+  "staffMenuHidden": "Hidden",
+
+  "staffMenuFieldOptionGroups": "Option Groups (optional)",
+  "staffMenuHintOptionGroups": "Leave empty if no options. Keep as-is unless you know what you're doing.",
+
+  "staffMenuEditItemButton": "Edit Item",
+
+  "staffMenuSnackAdded": "Item added ✅",
+  "staffMenuSnackUpdated": "Item updated ✅",
+  "staffMenuSnackFailed": "Failed",
+
+  "staffMenuDeleteTitle": "Delete item?",
+  "staffMenuDeleteBody": "Are you sure you want to delete this item?",
+  "staffMenuThisItem": "this item",
+  "staffMenuDeleteAction": "Delete",
+  "staffMenuSnackDeleted": "Deleted ✅",
+  "staffMenuSnackDeleteFailed": "Delete failed",
+
+  "staffMenuInvalidValue": "Invalid value",
+
+  "staffMenuBasePriceLine": "Base price: {price} SAR",
+  "@staffMenuBasePriceLine": { "placeholders": { "price": {} } },
+
+  "staffMenuPrepCaloriesLine": "Prep: {prep} min • Calories: {cal}",
+  "@staffMenuPrepCaloriesLine": {
+    "placeholders": {
+      "prep": { "type": "int" },
+      "cal": { "type": "int" }
+    }
+  },
+
+
+  "staffMenuEditItem": "Edit Item",
+
+  "staffMenuDeleteConfirm": "Delete",
+  "staffMenuDeletedSuccess": "Item deleted successfully ✅",
+  "staffMenuEmptyTitle": "No items yet",
+  "staffMenuEmptySubtitle": "Start by adding items to your cafe menu.",
+  "staffMenuNoItemsInCategory": "No items in this category yet.",
+  "staffMenuUnknownItem": "Unknown item",
+  "staffMenuUncategorized": "Uncategorized",
+  "staffMenuPriceLabel": "Price",
+  "staffMenuPrepLabel": "Prep",
+  "staffMenuAddItemSoon": "Add Item page will be added next.",
+  "staffMenuEditItemSoon": "Edit Item page will be added next.",
+
+  "staffEditProductTitle": "Edit Product",
+  "staffEditSave": "Save",
+  "staffEditSaved": "Saved ✅",
+  "staffEditSaveFailed": "Failed to save",
+  "staffEditLoadFailed": "Failed to load product",
+
+  "staffEditBasicInfo": "Basic Info",
+  "staffEditCustomizations": "Customizations",
+
+  "staffEditNameEn": "Name (EN)",
+  "staffEditNameEnHint": "Espresso",
+  "staffEditNameAr": "Name (AR)",
+  "staffEditNameArHint": "إسبريسو",
+
+  "staffEditCategoryEn": "Category (EN)",
+  "staffEditCategoryEnHint": "Hot Beverages",
+  "staffEditCategoryAr": "Category (AR)",
+  "staffEditCategoryArHint": "مشروبات ساخنة",
+
+  "staffEditImageAsset": "Image Asset",
+  "staffEditImageAssetHint": "assets/images/cafes/window/p1.png",
+
+  "staffEditPrice": "Price (SAR)",
+  "staffEditCalories": "Calories",
+  "staffEditPrepMinutes": "Prep Minutes",
+  "staffEditSortIndex": "Sort Index (optional)",
+
+  "staffEditActive": "Active (Visible in menu)",
+
+  "staffEditRequired": "Required",
+  "staffEditInvalidNumber": "Invalid number",
+
+  "staffEditAddGroup": "Add Group",
+  "staffEditDeleteGroup": "Delete group",
+  "staffEditDelete": "Delete",
+  "staffEditDeleteGroupTitle": "Delete customization group?",
+  "staffEditDeleteGroupBody": "This will remove the group and all its options.",
+
+  "staffEditGroupTitle": "Group {n}",
+  "@staffEditGroupTitle": { "placeholders": { "n": {} } },
+
+  "staffEditGroupTitleEn": "Group Title (EN)",
+  "staffEditGroupTitleEnHint": "Choose Coffee Type",
+  "staffEditGroupTitleAr": "Group Title (AR)",
+  "staffEditGroupTitleArHint": "اختاري نوع القهوة",
+
+  "staffEditType": "Type",
+  "staffEditTypeSingle": "Single choice",
+  "staffEditTypeMultiple": "Multiple choice",
+
+  "staffEditMaxSelect": "Max Select",
+  "staffEditRequiredField": "Required",
+
+  "staffEditOptions": "Options",
+  "staffEditAddOption": "Add option",
+  "staffEditRemoveOption": "Remove option",
+  "staffEditNoOptionsHint": "No options yet.",
+  "staffEditNoCustomizationsHint": "No customizations for this product. You can add groups if needed.",
+
+  "staffEditOptionNameEn": "Option Name (EN)",
+  "staffEditOptionNameEnHint": "Original",
+  "staffEditPriceDelta": "Price Delta (SAR)",
+  "staffEditPriceDeltaHint": "Price Delta is added to the base product price (e.g. +2 SAR).",
+
+
+  "staffEditProductNotFound": "Product not found.",
+  "staffEditBasicInfoTitle": "Basic Info",
+
+  "staffEditPriceSar": "Price (SAR)",
+
+  "staffEditSortIndexOptional": "Sort Index (optional)",
+  "staffEditActiveVisibleInMenu": "Active (Visible in menu)",
+  "staffEditCustomizationsTitle": "Customizations",
+  "staffEditCustomizationsHint": "No customizations for this product. You can add groups if needed.",
+
+  "staffEditPickImage": "Click here",
+  "staffEditPickImageHint": "to upload or drop files here",
+  "staffEditUploadingImage": "Uploading image...",
+  "staffEditImageSelected": "Image selected",
+  "staffEditImageUploadSuccess": "Image uploaded successfully.",
+  "staffEditSavedSuccess": "Saved successfully.",
+  "outOfStock": "Out of stock",
+
+  "staffMenuBackfillIsActiveTooltip": "Backfill isActive",
+  "staffMenuBackfillIsActiveTitle": "Backfill isActive",
+  "staffMenuBackfillIsActiveBody": "This will add isActive=true to products that don’t have it yet.\n\nRun it once per cafe, then remove the button from code.",
+  "staffMenuBackfillIsActiveConfirm": "Run",
+  "staffMenuBackfillWorking": "Working…",
+  "staffMenuBackfillDone": "Done ✅ Updated {count} products",
+  "@staffMenuBackfillDone": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "cafeItemNotAvailableBadge": "Not available",
+  "cafeItemNotAvailableSnack": "This item is currently not available.",
+
+
+
+  "staffEditNoCustomizationsYet": "No customizations for this product. You can add groups if needed.",
+  "staffEditCustomizationGroup": "Customization Group",
+
+  "staffEditGroupType": "Group Type",
+  "staffEditGroupTypeSingle": "Single choice",
+  "staffEditGroupTypeMulti": "Multiple choice",
+  "staffEditGroupRequired": "Required",
+  "staffEditGroupMaxSelectOptional": "Max Select (optional)",
+  "staffEditGroupMaxSelectHint": "Leave empty for unlimited",
+  "staffEditOptionsTitle": "Options",
+
+  "staffEditNoOptionsInGroup": "No options in this group yet.",
+  "staffEditOption": "Option",
+
+  "staffEditOptionNameAr": "Option Name (AR)",
+  "staffEditOptionPriceDelta": "Price Delta (SAR)",
+
+  "staffEditDeleteOptionTitle": "Delete Option?",
+  "staffEditDeleteOptionBody": "This option will be removed from the group.",
+
+  "staffEditOptionNameRequired": "Please enter at least one name (EN or AR) for every option.",
+
+
+  "staffAddItemTitle": "Add Item",
+  "staffAddUploading": "Uploading...",
+  "staffAddImageSelected": "Image selected",
+  "staffAddClickHere": "Click here",
+  "staffAddUploadHint": "to upload or drop files here",
+
+  "staffAddBasicInformationTitle": "Basic Information",
+  "staffAddProductNameEn": "Product Name (EN)",
+  "staffAddProductNameAr": "Product Name (AR)",
+  "staffAddProductNameEnHint": "Original Coffee",
+  "staffAddProductNameArHint": "Coffee",
+
+  "staffAddDescriptionEnOptional": "Description (EN) (optional)",
+  "staffAddDescriptionArOptional": "Description (AR) (optional)",
+  "staffAddDescriptionEnHint": "Text Text Text",
+  "staffAddDescriptionArHint": "Text Text Text",
+
+  "staffAddCategoryEn": "Category (EN)",
+  "staffAddCategoryAr": "Category (AR)",
+  "staffAddCategoryEnHint": "Hot Coffee",
+  "staffAddCategoryArHint": "Hot Coffee",
+
+  "staffAddSizesPricesTitle": "Size & Prices",
+  "staffAddAddSize": "Add Size",
+  "staffAddNoSizesHint": "No sizes added. If you don't need sizes, you can just fill Base Price below.",
+  "staffAddBasePriceIfNoSizes": "Base Price (SAR) (if no sizes)",
+  "staffAddBasePriceRequiredOrAddSizes": "Required (or add sizes)",
+  "staffAddBasePriceHint": "8.00",
+
+  "staffAddSizeName": "Size Name",
+  "staffAddSizeNameHint": "Small",
+  "staffAddSizePriceSar": "Price (SAR)",
+  "staffAddSizePriceHint": "9.00",
+  "staffAddAvailable": "Available",
+
+  "staffAddAddAdditionalTitle": "Add Additional",
+  "staffAddAddAddon": "Add Add-on",
+  "staffAddNoAddonsHint": "No add-ons yet. Add extras like (Extra shot, Syrup, etc).",
+  "staffAddAddonName": "Add on Name",
+  "staffAddAddonNameHint": "Extra Shot",
+  "staffAddAddonPriceSar": "Price (SAR)",
+  "staffAddAddonPriceHint": "3.00",
+
+  "staffAddOtherDetailsTitle": "Other Details",
+  "staffAddCaloriesOptional": "Calories (optional)",
+  "staffAddCaloriesHint": "0",
+  "staffAddPrepMinutes": "Prep Minutes",
+  "staffAddPrepMinutesHint": "3",
+  "staffAddSortIndexOptional": "Sort Index (optional)",
+  "staffAddSortIndexHint": "Leave empty for unlimited",
+
+  "staffAddProductAvailabilityTitle": "Product Availability",
+  "staffAddProductAvailabilityBody": "Control whether this product is visible to customers",
+
+  "staffAddItemAddedSuccess": "Item added successfully ✅",
+  "staffAddCropTitle": "Crop Image",
+  "staffAddImageRequired": "Please select an image first.",
+
+  "scanQrTitle": "Scan QR",
+  "scanQrButtonLabel": "Scan QR",
+  "orderLabel": "Order",
+  "readyToPickUpIn": "READY TO PICK UP IN...",
+  "showQrInCafeToReceive": "Show your QR code in cafe to receive your order",
+  "staffScanHint": "Scan customer's QR to confirm order delivery",
+  "qrMismatch": "This QR code does not match the selected order",
+  "invalidQr": "Invalid QR code",
+  "qrVerifiedSuccess": "QR verified. Order delivered successfully",
+  "qrScanTitle": "Scan QR",
+  "qrScanHint": "Point the camera at the customer's QR code to verify the order.",
+  "qrToggleFlash": "Flash",
+  "qrSwitchCamera": "Switch camera",
+  "qrOrderNotFound": "Order not found.",
+  "qrOrderNotReady": "This order is not ready yet.",
+  "qrOrderVerifiedAndPickedUp": "Order verified ✅ Hand it to the customer.",
+  "staffScanQrTitle": "Scan QR",
+  "staffQrScanInstruction": "Scan the customer's QR to complete the order",
+  "staffQrVerifying": "Verifying...",
+  "staffQrCompletedSuccess": "Order completed ✅",
+  "staffQrInvalidCode": "Invalid QR code",
+  "staffQrWrongOrder": "This QR is not for this order",
+  "orderCompletedBody": "Order is completed successfully.",
+  "staffAddCategorySelectLabel": "Category",
+  "staffAddCategorySelectHint": "Choose an existing category or add a new one",
+  "staffAddCategoryAddNewOption": "+ Add new category",
+  "staffAddCategorySelectedInfo": "Selected: {en} • {ar}",
+  "staffAddCropDone": "Done",
+  "notificationsTimeJustNow": "Just now",
+  "notificationsTimeMinutesAgo": "{minutes} minutes ago",
+  "notificationsTimeHoursAgo": "{hours} hours ago",
+  "notificationsTimeDaysAgo": "{days} days ago",
+
+
+  "notificationOrderPreparingTitle": "Order is preparing",
+  "notificationOrderPreparingBody": "Your order from {cafeName} (#{orderNumber}) is being prepared. It will be ready within {etaMinutes} minutes.",
+  "@notificationOrderPreparingBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" },
+      "orderNumber": { "type": "String" },
+      "etaMinutes": { "type": "int" }
+    }
+  },
+
+  "notificationOrderReadyTitle": "Order is ready",
+  "notificationOrderReadyBody": "Your order from {cafeName} (#{orderNumber}) is ready for pickup.",
+  "@notificationOrderReadyBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" },
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notificationOrderCompletedTitle": "Order completed",
+  "notificationOrderCompletedBody": "Your order from {cafeName} (#{orderNumber}) has been completed.",
+  "@notificationOrderCompletedBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" },
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notificationOrderCancelledTitle": "Order cancelled",
+  "notificationOrderCancelledBody": "Your order from {cafeName} (#{orderNumber}) has been cancelled.",
+  "@notificationOrderCancelledBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" },
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notificationAdTitle": "New offer",
+  "notificationAdBody": "{text}",
+  "@notificationAdBody": {
+    "placeholders": {
+      "text": { "type": "String" }
+    }
+  },
+
+
+
+
+
+
+
+
+  "notifOrderPlacedTitle": "Order #{orderNumber} placed",
+  "@notifOrderPlacedTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderPreparingTitle": "Order #{orderNumber} is preparing",
+  "@notifOrderPreparingTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderReadyTitle": "Order #{orderNumber} is ready",
+  "@notifOrderReadyTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderCompletedTitle": "Order #{orderNumber} completed",
+  "@notifOrderCompletedTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderCancelledTitle": "Order #{orderNumber} cancelled",
+  "@notifOrderCancelledTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderPlacedBody": "Your order from {cafeName} has been placed successfully.",
+  "@notifOrderPlacedBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+  "notifOrderPreparingBody": "{cafeName} started preparing your order.",
+  "@notifOrderPreparingBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+  "notifOrderReadyBody": "Your order from {cafeName} is ready for pickup.",
+  "@notifOrderReadyBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+  "notifOrderCompletedBody": "Your order from {cafeName} has been completed.",
+  "@notifOrderCompletedBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+  "notifOrderCancelledBody": "Your order from {cafeName} has been cancelled.",
+  "@notifOrderCancelledBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+
+  "staffAdsTitle": "Ads",
+  "staffAdsAddButton": "Add Ads",
+  "staffAdsNoAds": "No ads yet.",
+  "staffAdsEditButton": "Edit Ads",
+  "staffAdsEditComingSoon": "Edit page coming soon",
+  "staffAdsDeleteConfirmTitle": "Delete ad?",
+  "staffAdsDeleteConfirmBody": "Are you sure you want to delete this ad?",
+  "staffAdsDelete": "Delete",
+  "staffAdsDeletedSnack": "Ad deleted",
+  "staffAdsAddedSuccess": "Ad added successfully",
+  "staffAdsStatusActive": "Active",
+  "staffAdsStatusHidden": "Hidden",
+
+  "staffAdsAddTitle": "Add Ads",
+  "staffAdsCropTitle": "Crop Image",
+  "staffAdsUploading": "Uploading...",
+  "staffAdsClickHere": "Click here",
+  "staffAdsUploadHint": "to upload or drop files here",
+  "staffAdsImageRequired": "Please upload an image",
+
+  "staffAdsNameLabel": "Ads Name",
+  "staffAdsNameHint": "Original Coffee",
+  "staffAdsDescriptionLabel": "Description",
+  "staffAdsDescriptionHint": "Text Text Text",
+
+  "staffAdsAvailabilityTitle": "Ads Availability",
+  "staffAdsAvailabilityBody": "Control whether this ad is visible to customers",
+  "saved": "Saved successfully",
+
+  "enterPassword": "Please enter a password",
+  "passwordMustBeAtLeast8Chars": "Password must be at least 8 characters",
+  "passwordMustIncludeCapital": "Password must include at least one capital letter (A-Z)",
+  "passwordMustIncludeSymbol": "Password must include at least one symbol (e.g. ! @ #)",
+  "passwordPolicySnack": "Password must be at least 8 characters and include a capital letter and a symbol",
+  "passwordRequirementsTitle": "Password requirements",
+  "passwordReqMin8": "At least 8 characters",
+  "passwordReqOneCapital": "At least 1 capital letter (A-Z)",
+  "passwordReqOneSymbol": "At least 1 symbol (e.g. ! @ #)",
+  "passwordStrengthLabel": "Password strength",
+  "passwordStrengthWeak": "Weak",
+  "passwordStrengthMedium": "Medium",
+  "passwordStrengthStrong": "Strong",
+  "passwordStrengthHint": "Tip: Add numbers and a longer password to make it stronger.",
+  "phoneDigitsOnly": "Phone number must contain digits only",
+  "phoneMin9Digits": "Phone number must be at least 9 digits",
+  "phoneMax10Digits": "Phone number must not exceed 10 digits",
+  "adsUnavailable": "Ads unavailable",
+  "noOffersYet": "No offers yet",
+  "imageFailedToLoad": "Image failed to load",
+  "failedToOpenOffer": "Failed to open this offer",
+  "cafeDefaultName": "Cafe",
+  "testCrowdPrediction": "Test crowd prediction",
+  "closed": "Closed",
+  "goodMorningWithName": "Good Morning, {name}!",
+  "@goodMorningWithName": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "waitingForCafeAccept": "Waiting for the cafe to accept the order",
+  "orderDelayedMessage": "Your order is taking longer than expected",
+  "pickupReminderMessage": "Your order is ready! Don't forget to pick it up",
+  "deliveryLocationTitle": "Delivery location",
+  "changeDeliveryLocation": "Change location",
+  "useCurrentLocation": "Use current location",
+  "enterDeliveryLocationHint": "Enter the delivery location",
+  "deliveryLocationRequired": "Please set the delivery location first",
+  "receivedButtonWaitingPartnerHint": "The Received button will appear after a delivery partner accepts your request.",
+  "receivedButtonWaitingPaymentHint": "The Received button will appear after the order payment is completed.",
+  "receivedButtonPreparingHint": "The Received button will appear once the order is on the way.",
+  "receivedButtonOnTheWayHint": "Tap Received after the order arrives.",
+  "receivedButtonCompletedHint": "This order has already been completed.",
+  "selectQuantityFirst": "Please select the quantity first",
+  "goodAfternoon": "Good Afternoon",
+  "goodAfternoonWithName": "Good Afternoon, {name}!",
+  "@goodAfternoonWithName": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+
+  "deliveryGirlsAvailableCount": "{count} available",
+  "@deliveryGirlsAvailableCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+  "currentLocationShort": "Current location",
+  "deliveryStationLabel": "Station",
+  "deliveryCollegeLabel": "College",
+  "deliveryFloorLabel": "Floor",
+  "deliveryRoomLabel": "Room",
+  "deliveryRoomHint": "Enter room or hall number",
+  "updateCart": "Update Cart",
+  "removeFromCart": "Remove from Cart",
+  "cartUpdated": "Cart updated",
+  "removedFromCart": "Removed from cart",
+  "resetPasswordEmailSent": "Password reset email has been sent",
+  "pointsValue": "{value} pts",
+  "@pointsValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "pointsPlusValue": "+{value} pts",
+  "@pointsPlusValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "checkoutWallet": "Wallet",
+  "checkoutPayFromWallet": "Pay using your wallet balance",
+  "checkoutWalletBalanceSar": "Balance: SAR {amount}",
+  "@checkoutWalletBalanceSar": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "checkoutWalletInsufficientBalance": "Your wallet balance is not enough for this order.",
+  "loading": "Loading...",
+  "walletBalanceLabel": "Wallet Balance",
+  "walletBalanceHint": "Available to use in checkout",
+  "cafeClosedNow": "This cafe is currently closed.",
+  "rating1": "Rating"
+
+
+
+
+
+}

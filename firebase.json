@@ -1,0 +1,37 @@
+{
+  "flutter": {
+    "platforms": {
+      "android": {
+        "default": {
+          "projectId": "campresso-pnu-2026",
+          "appId": "1:571397940214:android:e1decd81914dcd6bba1dd7",
+          "fileOutput": "android/app/google-services.json"
+        }
+      },
+      "dart": {
+        "lib/firebase_options.dart": {
+          "projectId": "campresso-pnu-2026",
+          "configurations": {
+            "android": "1:571397940214:android:e1decd81914dcd6bba1dd7",
+            "ios": "1:571397940214:ios:2b6a9d95dfb0a838ba1dd7"
+          }
+        }
+      }
+    }
+  },
+  "functions": [
+    {
+      "source": "functions",
+      "codebase": "default",
+      "disallowLegacyRuntimeConfig": true,
+      "ignore": [
+        "node_modules",
+        ".git",
+        "firebase-debug.log",
+        "firebase-debug.*.log",
+        "*.local"
+      ],
+      "predeploy": []
+    }
+  ]
+}

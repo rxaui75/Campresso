@@ -1,0 +1,109 @@
+# Miscellaneous
+*.class
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# IntelliJ related
+*.iml
+*.ipr
+*.iws
+.idea/
+
+# The .vscode folder contains launch configuration and tasks you configure in
+# VS Code which you may wish to be included in version control, so this line
+# is commented out by default.
+#.vscode/
+
+# Flutter/Dart/Pub related
+**/doc/api/
+**/ios/Flutter/.last_build_id
+.dart_tool/
+.flutter-plugins-dependencies
+.pub-cache/
+.pub/
+/build/
+/coverage/
+
+# Symbolication related
+app.*.symbols
+
+# Obfuscation related
+app.*.map.json
+
+# Android Studio will place build artifacts here
+/android/app/debug
+/android/app/profile
+/android/app/release
+
+
+
+# Local environment and secrets
+.env
+.env.*
+!.env.example
+**/.env
+**/.env.*
+!**/.env.example
+*.pem
+*.p12
+*.p8
+*.jks
+*.keystore
+key.properties
+**/serviceAccountKey.json
+**/*service-account*.json
+**/google-services-key.json
+
+# Firebase local files
+.firebase/
+firebase-debug.log
+firestore-debug.log
+ui-debug.log
+
+# Firebase Functions
+functions/node_modules/
+functions/build/
+functions/.env*
+!functions/.env.example
+
+# Android local files
+android/local.properties
+android/.gradle/
+android/.kotlin/
+android/hs_err_pid*.log
+
+# iOS generated files
+ios/Pods/
+ios/Flutter/ephemeral/
+
+# Project backups and temporary files
+lib.zip
+*.bak
+*.tmp
+# Local backup files
+*.backup
+
+# Local reports and temporary files
+/deps.txt
+/untranslated.txt
+/package-lock.json
+
+# Local Firestore data migration scripts
+/lib/tools/seed_option_groups.dart
+/lib/tools/seed_translate_customizations.dart
+
+# Old localization backup
+/lib/l10n_manual_backup/
+
+
+# Generated localization files
+/lib/flutter_gen/gen_l10n/

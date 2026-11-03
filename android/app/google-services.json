@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "571397940214",
+    "project_id": "campresso-pnu-2026",
+    "storage_bucket": "campresso-pnu-2026.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:571397940214:android:e1decd81914dcd6bba1dd7",
+        "android_client_info": {
+          "package_name": "com.campresso.app.campresso"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA60wWCqVaFyxMRfGBxlMqlkoQtxJghbCU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

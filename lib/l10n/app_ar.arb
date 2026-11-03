@@ -1,0 +1,1298 @@
+{
+  "@@locale": "ar",
+
+  "goodMorning": "صباح الخير",
+  "search": "بحث",
+  "home": "الرئيسية",
+  "orders": "الطلبات",
+  "notification": "الإشعارات",
+  "profile": "الملف الشخصي",
+
+  "gettingLocation": "جاري تحديد الموقع...",
+  "locationOff": "الموقع مغلق (فعّليه)",
+  "locationPermissionDenied": "تم رفض صلاحية الموقع",
+  "locationError": "خطأ في الموقع",
+
+  "errorLoadingCafes": "خطأ في تحميل المقاهي",
+  "noCafesFound": "لا يوجد مقاهي",
+  "noResults": "لا توجد نتائج",
+
+  "crowded": "الازدحام",
+  "low": "منخفض",
+  "medium": "متوسط",
+  "high": "مرتفع",
+
+  "refreshLocation": "تحديث الموقع",
+  "notificationsComingSoon": "الإشعارات (قريبًا)",
+
+  "current": "الحالية",
+  "previous": "السابقة",
+  "noCurrentOrders": "لا توجد طلبات حالية",
+  "noPreviousOrders": "لا توجد طلبات سابقة",
+  "view": "عرض",
+  "orderPlaced": "تم استلام الطلب",
+  "preparing": "قيد التحضير",
+  "readyToPickup": "جاهز للاستلام",
+  "completed": "مكتمل",
+  "cancelled": "ملغي",
+  "inProgress": "قيد التنفيذ",
+
+  "distance": "المسافة",
+  "crowdLevel": "مستوى الازدحام",
+  "calories": "السعرات",
+  "preparationTime": "وقت التحضير",
+  "minutes": "دقائق",
+  "sar": "ر.س",
+  "errorLoadingProducts": "خطأ في تحميل المنتجات",
+  "cal": "سعرة",
+  "min": "د",
+  "noCustomizations": "لا توجد إضافات لهذا المنتج.",
+  "noCustomization": "لا توجد تخصيصات لهذا المنتج.",
+  "required": "إلزامي",
+  "pleaseChoose": "اختاري",
+  "youCanAddUpTo": "يمكنك إضافة حتى",
+  "options": "إضافات",
+  "addToCart": "أضف للسلة",
+  "addedToCart": "تمت الإضافة للسلة ✅",
+  "maxOptions": "الحد الأعلى",
+
+  "delivery": "التوصيل",
+  "availableForDelivery": "متاحة للتوصيل",
+  "deliveryToggleHint": "فعّليها إذا تقدري توصلي الطلبات داخل الجامعة الآن.",
+  "deliveryEnabled": "تم تفعيل وضع التوصيل ✅",
+  "deliveryDisabled": "تم إيقاف وضع التوصيل ❌",
+
+  "settings": "الإعدادات",
+  "myAccount": "حسابي",
+  "paymentMethod": "طريقة الدفع",
+  "aboutUs": "من نحن",
+  "contactUs": "تواصل معنا",
+  "languages": "اللغات",
+  "privacyPolicy": "سياسة الخصوصية",
+  "helpCenter": "مركز المساعدة",
+
+  "logoutConfirm": "هل أنتِ متأكدة أنكِ تريدين تسجيل الخروج؟",
+  "cancel": "إلغاء",
+  "loggedOut": "تم تسجيل الخروج",
+
+  "noUserSignedIn": "لا يوجد مستخدم مسجّل دخول",
+  "noEmail": "لا يوجد بريد",
+
+  "fullNameLabel": "الاسم الكامل",
+  "emailAddressLabel": "البريد الإلكتروني",
+  "passwordLabel": "كلمة المرور",
+  "change": "تغيير",
+
+  "payment": "الدفع",
+  "addCreditCard": "إضافة بطاقة",
+  "cardAddedSuccessfully": "تمت إضافة البطاقة بنجاح ✅",
+  "noCardsTitle": "ما عندك أي بطاقة\n:)",
+  "noCardsSubtitle": "يبدو أنك لم تقم بإضافة أي بطاقة\nائتمانية أو مدى. يمكنك إضافة بطاقة بسهولة.",
+  "visa": "فيزا",
+  "masterCard": "ماستر كارد",
+
+  "whoWeAre": "من نحن",
+  "aboutUsDescription": "كامبريسو هو تطبيق جوّال صُمم لتحسين تجربة المقاهي داخل الحرم الجامعي. هدفنا أن نجعل الطلب أسهل وأسرع وأكثر تنظيمًا للطالبات وموظفي المقاهي والإداريين.\n\nمن خلال كامبريسو، يمكن للعميل تصفّح المقاهي واستكشاف القوائم وطلب المنتجات وتتبع الطلب لحظة بلحظة. كما يمكن لموظفي المقهى إدارة الطلبات بكفاءة وتحديث حالتها وتنظيم سير العمل.\n\nيهدف كامبريسو إلى ربط العملاء بالمقاهي عبر حل رقمي ذكي وموثوق وسهل الاستخدام.",
+
+  "letsTalk": "يسعدنا التواصل معك",
+  "contactDescription": "لديك استفسار أو ملاحظة أو اقتراح؟ فقط عبئ النموذج وسنقوم بالرد عليك في أقرب وقت.",
+  "name": "الاسم",
+  "email": "البريد الإلكتروني",
+  "message": "الرسالة",
+  "messageHint": "ماذا تود أن تخبرنا؟",
+  "send": "إرسال",
+  "enterName": "أدخل اسمك",
+  "enterEmail": "أدخل بريدك الإلكتروني",
+  "invalidEmail": "البريد الإلكتروني غير صالح",
+  "writeMessage": "اكتب رسالة",
+  "messageTooShort": "الرسالة قصيرة جدًا",
+  "messageSent": "تم إرسال الرسالة بنجاح ✅",
+  "sendFailed": "فشل الإرسال",
+
+  "suggested": "مقترحة",
+  "arabicSA": "العربية (السعودية)",
+  "englishUS": "الإنجليزية (أمريكا)",
+
+  "cardHolder": "اسم حامل البطاقة",
+  "cardNumber": "رقم البطاقة",
+  "valid": "الصلاحية",
+  "cvv": "CVV",
+  "save": "حفظ",
+  "done": "تم",
+  "selectExpiry": "اختر تاريخ الانتهاء",
+
+  "failedToSaveCard": "فشل حفظ البطاقة",
+  "requiredField": "مطلوب",
+  "tooShort": "قصير جداً",
+  "enterCardHolderName": "أدخل اسم حامل البطاقة",
+  "enterCardNumber": "أدخل رقم البطاقة",
+  "cardNumberTooShort": "رقم البطاقة قصير جداً",
+
+  "changePasswordTitle": "تغيير كلمة المرور",
+  "securityCheckTitle": "تحقق الأمان",
+  "currentPasswordHint": "كلمة المرور الحالية",
+  "enterCurrentPassword": "أدخل كلمة المرور الحالية",
+  "passwordTooShort": "كلمة المرور تبدو قصيرة",
+
+  "newPasswordTitle": "كلمة مرور جديدة",
+  "newPasswordHint": "كلمة المرور الجديدة",
+  "enterNewPassword": "أدخل كلمة مرور جديدة",
+  "minSixChars": "الحد الأدنى 6 أحرف",
+  "newPasswordMustBeDifferent": "يجب أن تكون كلمة المرور الجديدة مختلفة",
+
+  "confirmNewPasswordTitle": "تأكيد كلمة المرور الجديدة",
+  "confirmNewPasswordHint": "تأكيد كلمة المرور الجديدة",
+  "confirmNewPassword": "أكّد كلمة المرور الجديدة",
+  "passwordsDoNotMatch": "كلمتا المرور غير متطابقتين",
+
+  "updatePassword": "تحديث كلمة المرور",
+
+  "noSignedInUserFound": "لا يوجد مستخدم مسجّل دخول.",
+  "passwordUpdatedLoginAgain": "تم تحديث كلمة المرور. الرجاء سجّل الدخول مرة أخرى ✅",
+  "errorPrefix": "خطأ",
+
+  "errWrongPassword": "كلمة المرور الحالية غير صحيحة.",
+  "errWeakPassword": "كلمة المرور الجديدة ضعيفة (الحد الأدنى 6 أحرف).",
+  "errRequiresRecentLogin": "للأمان، الرجاء تسجيل الدخول مرة أخرى ثم المحاولة.",
+  "errTooManyRequests": "محاولات كثيرة. حاول لاحقًا.",
+  "errGeneric": "حدث خطأ ما. حاول مرة أخرى.",
+
+  "onbTitle1": "تحديثات لحظية",
+  "onbDesc1": "تابع طلبك واعرف متى يصبح جاهزًا.",
+  "onbCaption1": "اختر حسب وقتك",
+
+  "onbTitle2": "طلب ذكي",
+  "onbDesc2": "اطلب مسبقًا وخصّص مشروبك المفضل",
+  "onbCaption2": "ودّع الطوابير والتعب",
+
+  "onbTitle3": "تجنب أوقات الذروة",
+  "onbDesc3": "تجنب الزحمة عبر تنبؤات ذكية.",
+  "onbCaption3": "طابور أقل… متعة أكثر",
+
+  "getStarted": "ابدأ الآن",
+
+  "loginTitle": "تسجيل الدخول",
+  "emailLabel": "البريد الإلكتروني",
+  "emailHint": "mail@pnu.edu.sa",
+  "enterYourEmail": "أدخلي بريدك الإلكتروني",
+  "invalidEmailSimple": "البريد الإلكتروني غير صحيح",
+
+  "passwordHintDots": "••••••••",
+  "enterYourPassword": "أدخلي كلمة المرور",
+
+  "forgotPassword": "نسيتِ كلمة المرور؟",
+  "forgotPasswordClicked": "تم الضغط على نسيت كلمة المرور",
+
+  "loginButton": "دخول",
+
+  "noAccountPrompt": "ما عندك حساب؟ ",
+  "createAccountAction": "إنشاء",
+
+  "loginFailed": "فشل تسجيل الدخول",
+  "noUserFoundForThisEmail": "لا يوجد حساب بهذا البريد",
+  "incorrectPassword": "كلمة المرور غير صحيحة",
+  "invalidEmailAddress": "عنوان البريد غير صحيح",
+
+  "emailDomainNotAllowed": "نطاق البريد الإلكتروني غير مسموح.",
+
+  "signUpTitle": "إنشاء حساب",
+
+  "firstNameLabel": "الاسم الأول",
+  "firstNameHint": "الاسم الأول",
+  "enterFirstName": "أدخلي الاسم الأول",
+
+  "lastNameLabel": "اسم العائلة",
+  "lastNameHint": "اسم العائلة",
+  "enterLastName": "أدخلي اسم العائلة",
+
+  "setPasswordLabel": "تعيين كلمة المرور",
+  "passwordMustBe6Chars": "كلمة المرور لازم تكون 6 أحرف أو أكثر",
+
+  "registerButton": "تسجيل",
+
+  "alreadyHaveAccountPrompt": "عندك حساب؟ ",
+  "loginAction": "تسجيل الدخول",
+
+  "onlyPnuEmailsCanRegister": "فقط بريد @pnu.edu.sa مسموح للتسجيل",
+  "accountCreatedPleaseLogin": "تم إنشاء الحساب بنجاح. الرجاء تسجيل الدخول.",
+
+  "registrationFailed": "فشل إنشاء الحساب",
+  "emailAlreadyInUse": "البريد مستخدم مسبقًا",
+  "weakPasswordMin6": "كلمة المرور ضعيفة (الحد الأدنى 6 أحرف)",
+  "emailPasswordSignInDisabled": "تسجيل الدخول بالبريد وكلمة المرور غير مفعّل في Firebase",
+
+  "errorSavingUserData": "خطأ أثناء حفظ بيانات المستخدم",
+
+  "mapGoodMorning": "صباح الخير",
+  "mapLocationSubtitle": "جامعة الأميرة نورة",
+
+  "selectUpTo": "اختر حتى {count}",
+  "@selectUpTo": { "placeholders": { "count": { "type": "int" } } },
+
+  "selectExact": "اختر {count} من {count}",
+  "@selectExact": { "placeholders": { "count": { "type": "int" } } },
+
+  "remaining": "المتبقي: {count}",
+  "@remaining": { "placeholders": { "count": { "type": "int" } } },
+
+  "checkoutTitle": "الدفع",
+  "checkoutCartEmpty": "سلتك فارغة",
+  "checkoutSelectPickupTime": "اختيار وقت الاستلام",
+  "checkoutPickupNow": "استلام الآن",
+  "checkoutScheduleOrder": "جدولة الطلب",
+  "checkoutSelectTransportMode": "اختيار وسيلة التنقل",
+  "checkoutWalking": "مشي",
+  "checkoutMetro": "مترو",
+  "checkoutDelivery": "توصيل",
+  "checkoutYourEstimatedPickup": "الوقت المتوقع للاستلام",
+  "checkoutPreparationTime": "وقت التحضير",
+  "checkoutJourneyTime": "وقت الوصول",
+  "checkoutPeakHourDelay": "تأخير وقت الذروة",
+  "checkoutTotalEstimatedTime": "إجمالي الوقت المتوقع",
+  "checkoutReadyAround": "جاهز تقريبًا",
+  "checkoutArriveReceiveAround": "الوصول/الاستلام تقريبًا",
+  "checkoutPaymentMethod": "طريقة الدفع",
+  "checkoutYourCart": "سلتك",
+  "checkoutPlaceOrder": "تأكيد الطلب",
+  "checkoutApplePay": "Apple Pay",
+  "checkoutGooglePay": "Google Pay",
+  "checkoutCashOnDelivery": "الدفع عند الاستلام",
+  "checkoutChoosePaymentMethod": "اختاري طريقة الدفع",
+  "checkoutPayWhenReceive": "ادفعي عند استلام الطلب",
+  "checkoutChange": "تغيير",
+  "checkoutTotalLabel": "الإجمالي",
+  "applePayError": "خطأ Apple Pay",
+  "googlePayError": "خطأ Google Pay",
+
+  "checkoutPaySar": "ادفعي {amount} ر.س",
+  "@checkoutPaySar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "checkoutLineSar": "المجموع: {amount} ر.س",
+  "@checkoutLineSar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "checkoutItemsCount": "عدد العناصر: {count}",
+  "@checkoutItemsCount": { "placeholders": { "count": { "type": "int" } } },
+
+  "checkoutTotalSar": "الإجمالي: {amount} ر.س",
+  "@checkoutTotalSar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "minutesCount": "{count} دقيقة",
+  "@minutesCount": { "placeholders": { "count": { "type": "int" } } },
+
+  "orderSuccessTitle": "ياسلام! تم تأكيد طلبك\nبنجاح.",
+  "orderSuccessEstimatedTime": "الوقت المتوقع",
+  "orderSuccessAmountPaid": "المبلغ المدفوع",
+  "orderSuccessTrackMyOrder": "تتبع طلبي",
+
+  "amountSar": "{amount} ر.س",
+  "@amountSar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "orderTrackingTitle": "الطلب",
+  "orderTrackingNotFound": "الطلب غير موجود",
+
+  "orderTrackingOrderNumber": "طلب رقم #{number}",
+  "@orderTrackingOrderNumber": { "placeholders": { "number": { "type": "String" } } },
+
+  "orderTrackingReadyIn": "جاهز للاستلام خلال...",
+  "orderTrackingShortOrderNumber": "طلب#{number}",
+  "@orderTrackingShortOrderNumber": { "placeholders": { "number": { "type": "String" } } },
+
+  "orderTrackingPickupAt": "الاستلام عند: {time}",
+  "@orderTrackingPickupAt": { "placeholders": { "time": { "type": "String" } } },
+
+  "orderTrackingQrHint": "اعرضي رمز QR في الكافيه للحصول\nعلى نقاط المكافأة",
+  "orderTrackingViewDetails": "عرض تفاصيل الطلب",
+
+  "orderTrackingPlaced": "تم إنشاء الطلب",
+  "orderTrackingPreparing": "جاري التحضير",
+  "orderTrackingReadyToPickup": "جاهز للاستلام",
+
+  "orderDetailsTitle": "الطلب",
+  "orderDetailsError": "خطأ",
+  "orderDetailsNotFound": "الطلب غير موجود",
+
+  "orderDetailsAppBar": "طلب رقم #{id}",
+  "@orderDetailsAppBar": { "placeholders": { "id": { "type": "String" } } },
+
+  "orderDetailsHeader": "طلب#{id}",
+  "@orderDetailsHeader": { "placeholders": { "id": { "type": "String" } } },
+
+  "orderDetailsItems": "العناصر ({count})",
+  "@orderDetailsItems": { "placeholders": { "count": { "type": "int" } } },
+
+  "orderDetailsCafeDetails": "تفاصيل الكافيه",
+  "orderDetailsLocation": "الموقع",
+  "orderDetailsReadyAt": "الجاهزية عند",
+  "orderDetailsCafeFallback": "كافيه",
+
+  "orderDetailsPaymentMethod": "طريقة الدفع",
+  "orderDetailsPaid": "مدفوع",
+  "orderDetailsTotal": "الإجمالي",
+
+  "paymentCashOnDelivery": "الدفع عند الاستلام",
+  "paymentOnline": "دفع إلكتروني",
+  "paymentApplePay": "Apple Pay",
+  "paymentGooglePay": "Google Pay",
+
+  "privacyPolicyTitle": "سياسة الخصوصية",
+  "policiesLastUpdate": "آخر تحديث: {date}",
+  "@policiesLastUpdate": { "placeholders": { "date": { "type": "String" } } },
+
+  "policiesIntro": "قد نقوم بتحديث هذه السياسة بشكل دوري لتعكس التغييرات في ممارساتنا أو المتطلبات القانونية أو تحسينات التطبيق. سيتم إشعار المستخدمين بالتحديثات المهمة، ويعني الاستمرار في استخدام التطبيق بعد التغييرات الموافقة على السياسة المحدّثة.",
+
+  "termsAndConditionsTitle": "الشروط والأحكام",
+  "termsAndConditionsIntro": "باستخدام تطبيق Campresso، فإنك توافق على الشروط والأحكام التالية:",
+
+  "policy1Title": "جمع البيانات",
+  "policy1Body": "نجمع فقط المعلومات الضرورية لتشغيل خدماتنا وتحسينها، مثل بيانات الحساب والتفضيلات وأنماط الاستخدام. لن يتم جمع أي بيانات شخصية غير ضرورية.",
+
+  "policy2Title": "استخدام المعلومات",
+  "policy2Body": "تُستخدم البيانات المجمّعة فقط لتحسين تجربة المستخدم وتخصيص الخدمات وضمان عمل التطبيق بسلاسة. لن يتم بيع معلوماتك أو مشاركتها مع أطراف ثالثة دون موافقتك الصريحة، إلا إذا تطلب القانون ذلك.",
+
+  "policy3Title": "مسؤولية المستخدم",
+  "policy3Body": "يتحمل المستخدم مسؤولية الحفاظ على سرية بيانات تسجيل الدخول وضمان إدخال معلومات صحيحة أثناء التسجيل.",
+
+  "policy4Title": "إجراءات الحماية",
+  "policy4Body": "نطبق ممارسات أمنية وفق معايير الصناعة لحماية البيانات المخزنة من الوصول غير المصرّح به أو سوء الاستخدام أو التعديل.",
+
+  "policy5Title": "خدمات الطرف الثالث",
+  "policy5Body": "إذا قام التطبيق بدمج أدوات أو بوابات دفع لطرف ثالث، فسيتم تطبيق سياسات الخصوصية والأمان الخاصة بهم أيضاً.",
+
+  "policy6Title": "حق الوصول وحذف البيانات",
+  "policy6Body": "يمكن للمستخدمين طلب عرض بياناتهم الشخصية أو تحديثها أو حذفها في أي وقت عبر قناة الدعم داخل التطبيق.",
+
+  "policy7Title": "الموافقة على السياسة",
+  "policy7Body": "من خلال الاستمرار في استخدام التطبيق، فإنك تقر بأنك قرأت وفهمت ووافقت على سياسة الخصوصية والشروط والأحكام.",
+
+  "policiesFooter": "Campresso • الخصوصية والشروط",
+
+  "helpCenterTitle": "مركز المساعدة",
+
+  "helpQ1": "كيف أنشئ حسابًا؟",
+  "helpA1": "اذهب إلى صفحة التسجيل، أدخل البيانات المطلوبة، ثم أرسل النموذج.",
+
+  "helpQ2": "كيف يمكنني إعادة تعيين كلمة المرور؟",
+  "helpA2": "استخدم خيار “نسيت كلمة المرور” في صفحة تسجيل الدخول لاستلام رابط إعادة التعيين.",
+
+  "helpQ3": "أين يمكنني رؤية طلباتي؟",
+  "helpA3": "افتح الملف الشخصي ← قسم “طلباتي” لرؤية الطلبات الحالية والسابقة.",
+
+  "helpQ4": "كيف أتواصل مع الدعم؟",
+  "helpA4": "اذهب إلى الملف الشخصي ← الدعم وأرسل رسالتك، وسنرد عليك بأقرب وقت.",
+
+  "helpQ5": "كيف ألغي الطلب؟",
+  "helpA5": "يمكنك إلغاء الطلب إذا لم يبدأ التحضير بعد. اذهب إلى الطلبات ← اختر الطلب ← إلغاء.",
+
+  "helpQ6": "هل يمكنني تغيير وقت الاستلام؟",
+  "helpA6": "نعم. قبل بدء التحضير، يمكنك تعديل وقت الاستلام المجدول من تفاصيل الطلب.",
+
+  "helpQ7": "ما طرق الدفع المتاحة؟",
+  "helpA7": "ندعم الدفع عند الاستلام والدفع الإلكتروني (Apple Pay / Google Pay) حسب جهازك.",
+
+  "helpQ8": "كيف أحصل على نقاط المكافآت؟",
+  "helpA8": "اعرض رمز الـ QR في الكافيه عند استلام طلبك لتحصل على نقاط مكافآت.",
+
+  "helpQ9": "لماذا لا يظهر طلبي؟",
+  "helpA9": "تحقق من اتصال الإنترنت ثم حدّث صفحة الطلبات. إذا استمرت المشكلة تواصل مع الدعم.",
+
+  "helpQ10": "كيف أغيّر لغة التطبيق؟",
+  "helpA10": "غيّر اللغة من إعدادات الجهاز ثم أعد فتح التطبيق.",
+
+  "logout": "تسجيل الخروج",
+  "logoutConfirmTitle": "هل أنت متأكد أنك تريد تسجيل الخروج؟",
+  "yes": "نعم",
+
+  "notificationsTitle": "الإشعارات",
+  "notificationsTabAll": "الكل",
+  "notificationsTabOrders": "الطلبات",
+  "notificationsTabAds": "العروض",
+
+  "notificationsEmptyAllTitle": "لا توجد إشعارات حالياً",
+  "notificationsEmptyAllSubtitle": "عند حدوث أي شيء جديد، ستظهر الإشعارات هنا.",
+
+  "notificationsEmptyOrdersTitle": "لا توجد تحديثات للطلبات",
+  "notificationsEmptyOrdersSubtitle": "إشعارات حالة الطلب ستظهر هنا.",
+
+  "notificationsEmptyAdsTitle": "لا توجد عروض حالياً",
+  "notificationsEmptyAdsSubtitle": "العروض والإعلانات ستظهر هنا.",
+
+  "deliveries": "التوصيلات",
+  "myOrders": "طلباتي",
+  "noDeliveriesYet": "لا توجد طلبات توصيل حالياً",
+
+  "deliveryWaitingTitle": "بانتظار أحد يقبل طلب التوصيل...",
+  "deliveryWaitingSubtitle": "نقوم الآن بإشعار الموصّلات المتاحات.",
+  "deliveryWaitingTimeHint": "مدة الانتظار",
+  "deliveryWaitingNote": "إذا لم يستجب أحد، يمكنك التحويل إلى الاستلام أو الإلغاء.",
+  "deliveryNoResponseTitle": "لا يوجد استجابة للتوصيل",
+  "deliveryNoResponseBody": "هل تريدين التحويل إلى الاستلام بدلاً من ذلك؟",
+  "switchToPickup": "تحويل إلى الاستلام",
+  "cancelOrder": "إلغاء الطلب",
+  "orderCancelled": "تم إلغاء الطلب",
+  "error": "خطأ",
+
+  "deliveryRequestTitle": "طلب توصيل",
+  "deliveryStatusLabel": "حالة التوصيل",
+  "viewOrderDetails": "عرض تفاصيل الطلب",
+  "waitFiveMoreMinutes": "انتظري ٥ دقائق إضافية",
+
+  "accept": "قبول",
+  "notAvailable": "غير متاحة",
+  "deliveryRequest": "طلب توصيل",
+  "deliveryAccepted": "تم قبول التوصيل",
+  "markedNotAvailable": "تم تحديدك كغير متاحة",
+  "customer": "العميل",
+  "deliveryLocationNotSet": "موقع التوصيل غير محدد",
+  "pending": "قيد الانتظار",
+
+  "deliveryAlreadyTaken": "تم قبول الطلب من قبل شريك توصيل آخر.",
+
+  "deliveryAcceptedTitle": "تم قبول التوصيل",
+  "deliveryAcceptedBody": "تم قبول طلبك من قبل مندوبة التوصيل. يمكنك الآن المتابعة والدفع لإكمال الطلب.",
+  "ok": "حسناً",
+  "payNow": "ادفع الآن",
+
+  "deliveryInfoTitle": "معلومات التوصيل",
+  "deliveryLocation": "موقع التوصيل",
+  "deliveryPrivacyNote": "لأسباب تتعلق بالخصوصية، تفاصيل الدفع مخفية عن شريك التوصيل.",
+
+  "checkoutDeliveryOnlineOnlyNote": "التوصيل يتطلب الدفع الإلكتروني لتجنب التعامل بالنقد من قِبل مندوبة التوصيل.",
+  "checkoutLocked": "مقفلة",
+
+  "deliveryTipTitle": "بقشيش التوصيل",
+  "deliveryTipSubtitle": "اختاري بقشيش للبنت اللي بتوصل الطلب",
+  "deliveryTipSelected": "البقشيش المختار",
+  "deliveryOnlineOnlyNote": "طلبات التوصيل تتطلب دفع إلكتروني (بدون كاش).",
+  "locked": "مقفل",
+  "deliveryPayAfterAccept": "سيظهر زر الدفع بعد أن تقبل إحدى طالبات التوصيل طلبك.",
+
+  "deliveryPartnerBarcodeTitle": "باركود مندوبة التوصيل",
+  "deliveryPartnerBarcodeHint": "اعرضي هذا الباركود للكافيه عند استلام الطلب.",
+  "customerBarcodeTitle": "باركود العميلة",
+  "customerBarcodeHint": "استخدمي هذا الباركود عند استلام طلبك.",
+  "tapToViewDetails": "اضغطي لعرض تفاصيل الطلب",
+  "accepted": "تم القبول",
+
+  "deliveryCustomerPhoneTitle": "التواصل مع العميل",
+  "call": "اتصال",
+  "whatsApp": "واتساب",
+  "copiedToClipboard": "تم نسخ رقم الهاتف",
+  "deliveryPhoneHint": "استخدمي هذا الرقم فقط للتنسيق بخصوص التوصيل.",
+
+  "phoneNumberLabel": "رقم الجوال",
+  "phoneNumberHint": "أدخل رقم الجوال",
+  "enterPhoneNumber": "الرجاء إدخال رقم الجوال",
+  "invalidPhoneNumber": "رقم الجوال غير صالح",
+
+  "deliveryPartnerInfo": "معلومات مندوبة التوصيل",
+  "customerContact": "بيانات تواصل العميل",
+
+  "myTipsTitle": "الإكراميات",
+  "totalTipsLabel": "إجمالي الإكراميات",
+  "ordersLabel": "عدد الطلبات",
+  "noTipsYetTitle": "لا توجد إكراميات بعد 🌱",
+  "noTipsYetSubtitle": "ابدئي بتوصيل الطلبات لتحصلي على أول إكرامية",
+  "tipEarnedLabel": "تم الحصول على إكرامية",
+
+  "orderNumberLabel": "طلب رقم {number}",
+  "@orderNumberLabel": { "placeholders": { "number": { "type": "String" } } },
+
+  "tipAmountSar": "{amount} ريال",
+  "@tipAmountSar": { "placeholders": { "amount": { "type": "String" } } },
+
+  "deliveryTipsHistory": "سجل الإكراميات",
+  "deliveryTipsEmpty": "لم تحصلي على أي إكراميات بعد",
+  "deliveryTipsEncouragement": "أكملي التوصيل لبدء كسب الإكراميات 💚",
+  "tipStatusEarned": "مكتسبة",
+
+  "tipDateFormat": "{day}/{month}/{year}",
+  "@tipDateFormat": {
+    "placeholders": {
+      "day": { "type": "String" },
+      "month": { "type": "String" },
+      "year": { "type": "String" }
+    }
+  },
+
+  "tipsHistoryTitle": "سجل الإكراميات",
+
+  "tipPlusAmountSar": "+{amount} ريال",
+  "@tipPlusAmountSar": {
+    "description": "قيمة الإكرامية مع علامة زائد",
+    "placeholders": { "amount": { "type": "String" } }
+  },
+
+  "deliveryStepWaiting": "بانتظار قبول الطلب",
+  "deliveryStepAccepted": "تم قبول الطلب",
+  "deliveryStepPreparing": "جاري تحضير الطلب",
+  "deliveryStepOnTheWay": "الطلب في الطريق",
+  "deliveryStepDelivered": "تم تسليم الطلب",
+
+  "deliveryTrackingEtaTitle": "الوقت المتوقع",
+  "deliveryTrackingEtaTime": "وقت التوصيل المتوقع: {time}",
+  "@deliveryTrackingEtaTime": { "placeholders": { "time": { "type": "String" } } },
+
+  "confirmReceivedTitle": "تأكيد الاستلام",
+  "confirmReceivedBody": "هل أنتِ متأكدة أنك استلمتِ الطلب؟\nبعد التأكيد سيتم إنهاء الطلب وتحويل البقشيش لبنت التوصيل.",
+  "receivedButton": "تم الاستلام",
+  "receivedButtonHint": "زر (تم الاستلام) سيظهر بعد قبول بنت التوصيل ودفع الطلب.",
+  "receivedSuccessSnack": "✅ تم تأكيد الاستلام وتم إنهاء الطلب.",
+
+  "deliveryLeaveTitle": "الخروج من طلب التوصيل؟",
+  "deliveryLeaveBody": "طلب التوصيل ما زال قيد الانتظار. يمكنك المتابعة من صفحة تتبع الطلب بدون فقدان الطلب.",
+  "stayHere": "أكمل الانتظار",
+  "goToTracking": "اذهب للتتبع",
+
+  "invalidAmountError": "المبلغ غير صالح",
+
+  "deliveryPaymentStatus": "الدفع: {status}",
+  "@deliveryPaymentStatus": { "placeholders": { "status": { "type": "String" } } },
+
+  "paidTrackOrderCta": "تم الدفع ✓  •  تتبع الطلب",
+
+  "orderTrackingViewOrderDetails": "عرض تفاصيل الطلب",
+
+  "deliveryWaitingCardTitle": "بانتظار بنت توصيل",
+  "deliveryWaitingCardBody": "طلبك ظاهر لبنات التوصيل. إذا ما حدا قبل خلال الوقت، تقدري تنتظري أكثر أو تحولي الطلب إلى استلام أو تلغيه.",
+  "deliveryWaitingTimeLeft": "الوقت المتبقي: {time}",
+  "@deliveryWaitingTimeLeft": { "placeholders": { "time": { "type": "String" } } },
+
+  "manageDeliveryRequest": "إدارة الطلب",
+  "waitingForDelivery": "بانتظار بنت توصيل",
+  "paymentSuccess": "تم الدفع بنجاح",
+
+  "checkoutRefresh": "تحديث",
+  "deliveryNotAvailableNow": "لا يوجد حالياً أي شخص متاح للتوصيل.",
+  "deliveryTipValueLabel": "قيمة بقشيش التوصيل",
+
+  "deliveryTipDistanceNote": "بسبب أن المسافة بينك وبين المقهى أكبر من {distanceBucket}.",
+  "@deliveryTipDistanceNote": {
+    "description": "Shown under Delivery Tip Value to explain why this tip is applied.",
+    "placeholders": { "distanceBucket": { "type": "String", "example": "> 3 كم" } }
+  },
+
+  "deliveryDistanceBucketUnder1km": "≤ 1 كم",
+  "deliveryDistanceBucket1to3km": "1–3 كم",
+  "deliveryDistanceBucketAbove3km": "> 3 كم",
+
+  "tipsTitle": "البقشيش",
+
+  "staffCurrentOrdersTab": "الطلبات الحالية",
+  "staffOrderHistoryTab": "سجل الطلبات",
+
+  "staffNewOrders": "طلبات جديدة",
+  "staffPreparing": "قيد التحضير",
+  "staffReadyForPickup": "جاهز\nللاستلام",
+
+  "staffCompletedOrders": "طلبات\nمكتملة",
+  "staffCancelledOrders": "طلبات\nملغاة",
+
+  "staffCurrentOrdersTitle": "الطلبات الحالية",
+  "staffPreviousOrdersTitle": "الطلبات السابقة",
+
+  "staffStartPreparing": "ابدأ التحضير",
+  "staffMarkAsReady": "تحديد كجاهز",
+  "staffCompleteOrder": "إنهاء الطلب",
+  "staffCancel": "إلغاء",
+  "staffAction": "إجراء",
+
+  "staffStatusNew": "جديد",
+  "staffStatusPreparing": "قيد التحضير",
+  "staffStatusReady": "جاهز",
+  "staffStatusCompleted": "مكتمل",
+  "staffStatusCancelled": "ملغي",
+
+  "staffSarAmount": "{amount} ر.س",
+  "@staffSarAmount": { "placeholders": { "amount": { "type": "String", "example": "11.20" } } },
+
+  "staffEtaMinutes": "{mins} دقيقة",
+  "@staffEtaMinutes": { "placeholders": { "mins": { "type": "int", "example": "17" } } },
+
+  "staffCancelDialogTitle": "إلغاء الطلب",
+  "staffCancelDialogBody": "هل أنت متأكد أنك تريد إلغاء هذا الطلب؟",
+  "staffCancelConfirm": "إلغاء الطلب",
+
+  "staffStatusChangedNew": "تم تعيين حالة الطلب إلى جديد.",
+  "staffStatusChangedPreparing": "تم تحويل الطلب إلى قيد التحضير.",
+  "staffStatusChangedReady": "الطلب جاهز للاستلام.",
+  "staffStatusChangedCompleted": "تم إنهاء الطلب.",
+  "staffStatusChangedCancelled": "تم إلغاء الطلب.",
+
+  "staffOpenOrderDetails": "فتح تفاصيل الطلب.",
+  "staffNavDashboard": "لوحة التحكم",
+  "staffNavMenu": "القائمة",
+  "staffNavAds": "إعلانات",
+  "staffNavProfile": "الملف الشخصي",
+
+  "staffQrAction": "إجراء QR",
+
+  "loginRouteMissingUser": "لا يمكن المتابعة: المستخدم غير موجود.",
+  "loginNoUserProfile": "لا يوجد ملف مستخدم.",
+  "loginRoleNotAllowed": "هذا الحساب غير مسموح.",
+  "staffDefaultCafeName": "مقهى كامبريسو",
+  "loginUserDisabled": "تم تعطيل هذا الحساب.",
+  "loginTooManyRequests": "محاولات كثيرة. جرّبي لاحقاً.",
+
+  "staffNoCurrentOrders": "لا توجد طلبات حالية حتى الآن.",
+  "staffNoHistoryOrders": "لا توجد طلبات سابقة حتى الآن.",
+  "staffOrderItemsFallback": "محتوى الطلب",
+
+  "staffCafeAccount": "حساب الكافيه",
+  "staffCafeAccountNotReady": "صفحة حساب الكافيه غير جاهزة حالياً.",
+  "staffNavNotReady": "هذا القسم غير جاهز حالياً.",
+  "staffCafeAccountTitle": "حساب الكافيه",
+  "staffEmailAddressLabel": "البريد الإلكتروني",
+  "staffPasswordLabel": "كلمة المرور",
+  "staffEmailUnknown": "البريد غير معروف",
+  "staffPasswordManagedNote": "كلمة المرور يتم إدارتها من قِبل Campresso ولا يمكن للموظفين تغييرها.",
+  "staffNavOpen": "فتح الصفحة",
+  "staffMenuComingSoon": "المنيو (قريباً)",
+  "staffAdsComingSoon": "الإعلانات (قريباً)",
+
+  "staffHelpQLogin": "كيف أسجل الدخول إلى حساب الموظفين؟",
+  "staffHelpALogin": "استخدم بريد الموظفين وكلمة المرور التي تم توفيرها من Campresso (أو مدير الكافيه).",
+
+  "staffHelpQForgotPassword": "ماذا أفعل إذا نسيت كلمة المرور؟",
+  "staffHelpAForgotPassword": "تواصل مع دعم Campresso أو مدير الكافيه لإعادة تعيين كلمة المرور.",
+
+  "staffHelpQWhenOrdersAppear": "متى تظهر الطلبات للموظفين؟",
+  "staffHelpAWhenOrdersAppear": "تظهر الطلبات في لوحة الطلبات فقط بعد إتمام العميل للدفع الإلكتروني.",
+
+  "staffHelpQViewNewOrders": "كيف أشوف الطلبات الجديدة؟",
+  "staffHelpAViewNewOrders": "الطلبات المدفوعة تظهر تحت الطلبات الحالية. استخدم العدادات لمعرفة عدد الطلبات الجديدة والتي قيد التحضير والجاهزة.",
+
+  "staffHelpQUpdateStatus": "كيف أغيّر حالة الطلب؟",
+  "staffHelpAUpdateStatus": "من الطلبات الحالية استخدم زر الكارد: بدء التحضير → تحديد كجاهز → إكمال الطلب.",
+
+  "staffHelpQCancelOrder": "كيف ألغي طلب؟",
+  "staffHelpACancelOrder": "من كارد الطلب في الطلبات الحالية اضغط إلغاء ثم أكد العملية. سيظهر للعميل أن الطلب تم إلغاؤه.",
+
+  "staffHelpQDeliveryOrders": "هل تصلني طلبات التوصيل أيضاً؟",
+  "staffHelpADeliveryOrders": "نعم. طلبات التوصيل تظهر أيضاً بعد الدفع، ويتم التعامل معها بنفس طريقة طلبات الاستلام.",
+
+  "staffHelpQNoOrders": "ماذا لو ما فيه أي طلبات؟",
+  "staffHelpANoOrders": "إذا كانت القائمة فارغة فهذا يعني لا توجد حالياً طلبات مدفوعة لهذا الكافيه. جرّب مرة أخرى لاحقاً.",
+
+  "staffOrderDetailsTitle": "تفاصيل الطلب",
+
+  "staffOrderTitleNumber": "طلب رقم #{number}",
+  "@staffOrderTitleNumber": { "placeholders": { "number": { "type": "String" } } },
+
+  "staffOrderNotThisCafe": "هذا الطلب لا يخص هذا المقهى",
+
+  "staffItemsTitle": "العناصر ({count})",
+  "@staffItemsTitle": { "placeholders": { "count": { "type": "int" } } },
+
+  "staffNoItems": "لا توجد عناصر",
+  "staffInvalidItemData": "بيانات عنصر غير صالحة",
+  "staffItemFallback": "عنصر",
+
+  "staffCustomerTitle": "العميل",
+  "staffNameLabel": "الاسم",
+  "staffPhoneLabel": "رقم الهاتف",
+
+  "staffCafeDetailsTitle": "تفاصيل المقهى",
+  "staffCafeLabel": "المقهى",
+  "staffPickupAtLabel": "وقت الاستلام",
+
+  "staffOrderStatusTitle": "حالة الطلب",
+  "staffStatusLabel": "الحالة",
+
+  "staffPaymentMethodLabel": "طريقة الدفع",
+  "staffCash": "دفع نقدي عند الاستلام",
+  "staffApplePay": "Apple Pay",
+  "staffPaid": "مدفوع",
+  "staffUnpaid": "غير مدفوع",
+
+  "staffPaymentTitle": "الدفع",
+  "staffCafeAmountLabel": "قيمة الطلب",
+  "staffTipLabel": "الإكرامية",
+  "staffTotalLabel": "الإجمالي",
+
+  "staffPreparingStartedAtLabel": "بدأ التحضير",
+  "staffReadyAtLabel": "جاهز للاستلام",
+  "staffCompletedAtLabel": "تم إكمال الطلب",
+
+  "staffSarAmountPlain": "{amount} ريال",
+  "@staffSarAmountPlain": { "placeholders": { "amount": { "type": "String" } } },
+
+  "staffDashPlaceholder": "—",
+
+  "staffOrderNotFound": "الطلب غير موجود",
+
+  "staffOrderCafeMismatch": "هذا الطلب لا يخص هذا المقهى",
+
+  "staffUnknownCustomer": "عميل غير معروف",
+
+  "staffOrderHash": "طلب رقم",
+
+  "staffCustomerNameLabel": "اسم العميل",
+  "staffCustomerPhoneLabel": "رقم هاتف العميل",
+
+  "staffPaymentMethodTitle": "طريقة الدفع",
+
+  "staffUnknownItem": "عنصر غير معروف",
+
+  "staffPayCashOnPickup": "دفع نقدي عند الاستلام",
+  "staffPayOnline": "دفع إلكتروني",
+  "staffPayUnknown": "طريقة دفع غير معروفة",
+
+  "staffPending": "قيد الانتظار",
+  "staffCafeNameLabel": "المقهى",
+  "staffTimeUnknown": "—",
+
+
+  "staffMenuTitle": "المنيو",
+  "staffMenuAddItem": "+إضافة منتج",
+
+  "staffMenuTabHotCoffee": "قهوة ساخنة",
+  "staffMenuTabIcedCoffee": "قهوة باردة",
+  "staffMenuTabDonuts": "دونات",
+  "staffMenuTabLabel": "تصنيف",
+
+  "staffMenuNoItemsYet": "لا توجد منتجات بعد",
+  "staffMenuUnnamedItem": "منتج بدون اسم",
+
+  "staffMenuAddItemTitle": "إضافة منتج",
+  "staffMenuEditItemTitle": "تعديل منتج",
+  "staffMenuAddButton": "إضافة",
+
+  "staffMenuFieldNameEn": "الاسم (إنجليزي) *",
+  "staffMenuHintNameEn": "مثال: Original Coffee",
+  "staffMenuFieldNameAr": "الاسم (عربي)",
+  "staffMenuHintNameAr": "مثال: قهوة أصلية",
+
+  "staffMenuFieldCategoryEn": "التصنيف (إنجليزي)",
+  "staffMenuFieldCategoryAr": "التصنيف (عربي) (اختياري)",
+  "staffMenuHintCategoryAr": "مثال: قهوة ساخنة",
+
+  "staffMenuFieldImageAsset": "مسار الصورة (اختياري)",
+  "staffMenuHintImageAsset": "assets/images/cafes/...png",
+
+  "staffMenuFieldCalories": "السعرات الحرارية",
+  "staffMenuHintCalories": "مثال: 120",
+
+  "staffMenuFieldPrepMinutes": "وقت التحضير (دقيقة)",
+  "staffMenuHintPrepMinutes": "مثال: 3",
+
+  "staffMenuFieldBasePrice": "السعر الأساسي (ر.س)",
+  "staffMenuHintBasePrice": "مثال: 11.00",
+
+  "staffMenuAvailable": "متاح",
+  "staffMenuHidden": "مخفي",
+
+  "staffMenuFieldOptionGroups": "مجموعات الخيارات (اختياري)",
+  "staffMenuHintOptionGroups": "اتركه فارغ إذا ما فيه خيارات. لا تعدليه إلا إذا كنت متأكدة.",
+
+  "staffMenuEditItemButton": "تعديل المنتج",
+
+  "staffMenuSnackAdded": "تمت إضافة المنتج ✅",
+  "staffMenuSnackUpdated": "تم تعديل المنتج ✅",
+  "staffMenuSnackFailed": "فشل",
+
+  "staffMenuDeleteTitle": "حذف المنتج؟",
+  "staffMenuDeleteBody": "هل أنت متأكد أنك تريد حذف هذا المنتج؟",
+  "staffMenuThisItem": "هذا المنتج",
+  "staffMenuDeleteAction": "حذف",
+  "staffMenuSnackDeleted": "تم الحذف ✅",
+  "staffMenuSnackDeleteFailed": "فشل الحذف",
+
+  "staffMenuInvalidValue": "قيمة غير صحيحة",
+
+  "staffMenuBasePriceLine": "السعر الأساسي: {price} ر.س",
+  "@staffMenuBasePriceLine": { "placeholders": { "price": {} } },
+
+  "staffMenuPrepCaloriesLine": "التحضير: {prep} د • السعرات: {cal}",
+  "@staffMenuPrepCaloriesLine": {
+    "placeholders": {
+      "prep": { "type": "int" },
+      "cal": { "type": "int" }
+    }
+  },
+
+  "staffMenuNoCategories": "لا توجد تصنيفات.",
+  "staffMenuNoItemsInCategory": "لا توجد منتجات داخل هذا التصنيف بعد.",
+  "staffMenuUseNewCategory": "استخدام تصنيف جديد",
+  "staffMenuNewCategoryEn": "تصنيف جديد (إنجليزي)",
+  "staffMenuHintNewCategoryEn": "مثال: Hot Coffee",
+  "staffMenuNewCategoryAr": "تصنيف جديد (عربي)",
+  "staffMenuHintNewCategoryAr": "مثال: قهوة ساخنة",
+
+
+  "staffMenuEditItem": "تعديل المنتج",
+
+  "staffMenuDeleteConfirm": "حذف",
+  "staffMenuDeletedSuccess": "تم حذف المنتج بنجاح ✅",
+  "staffMenuEmptyTitle": "لا توجد منتجات بعد",
+  "staffMenuEmptySubtitle": "ابدئي بإضافة منتجات لمنيو المقهى.",
+
+  "staffMenuUnknownItem": "منتج غير معروف",
+  "staffMenuUncategorized": "بدون تصنيف",
+  "staffMenuPriceLabel": "السعر",
+  "staffMenuPrepLabel": "التحضير",
+  "staffMenuAddItemSoon": "صفحة إضافة المنتج سنعملها بعدها مباشرة.",
+  "staffMenuEditItemSoon": "صفحة تعديل المنتج سنعملها بعدها مباشرة.",
+
+
+  "staffEditProductTitle": "تعديل المنتج",
+  "staffEditSave": "حفظ",
+  "staffEditSaved": "تم الحفظ ✅",
+  "staffEditSaveFailed": "فشل الحفظ",
+  "staffEditLoadFailed": "فشل تحميل المنتج",
+
+  "staffEditBasicInfo": "معلومات أساسية",
+  "staffEditCustomizations": "التخصيصات",
+
+  "staffEditNameEn": "الاسم (إنجليزي)",
+  "staffEditNameEnHint": "Espresso",
+  "staffEditNameAr": "الاسم (عربي)",
+  "staffEditNameArHint": "إسبريسو",
+
+  "staffEditCategoryEn": "التصنيف (إنجليزي)",
+  "staffEditCategoryEnHint": "Hot Beverages",
+  "staffEditCategoryAr": "التصنيف (عربي)",
+  "staffEditCategoryArHint": "مشروبات ساخنة",
+
+  "staffEditImageAsset": "مسار صورة المنتج",
+  "staffEditImageAssetHint": "assets/images/cafes/window/p1.png",
+
+  "staffEditPrice": "السعر (ر.س)",
+  "staffEditCalories": "السعرات",
+  "staffEditPrepMinutes": "وقت التحضير",
+  "staffEditSortIndex": "ترتيب العرض (اختياري)",
+
+  "staffEditActive": "مفعل (ظاهر في المنيو)",
+
+  "staffEditRequired": "مطلوب",
+  "staffEditInvalidNumber": "رقم غير صالح",
+
+  "staffEditAddGroup": "إضافة مجموعة",
+  "staffEditDeleteGroup": "حذف المجموعة",
+  "staffEditDelete": "حذف",
+  "staffEditDeleteGroupTitle": "حذف مجموعة تخصيص؟",
+  "staffEditDeleteGroupBody": "سيتم حذف المجموعة وكل خياراتها.",
+
+  "staffEditGroupTitle": "المجموعة {n}",
+  "@staffEditGroupTitle": { "placeholders": { "n": {} } },
+
+  "staffEditGroupTitleEn": "عنوان المجموعة (إنجليزي)",
+  "staffEditGroupTitleEnHint": "Choose Coffee Type",
+  "staffEditGroupTitleAr": "عنوان المجموعة (عربي)",
+  "staffEditGroupTitleArHint": "اختاري نوع القهوة",
+
+  "staffEditType": "النوع",
+  "staffEditTypeSingle": "اختيار واحد",
+  "staffEditTypeMultiple": "اختيارات متعددة",
+
+  "staffEditMaxSelect": "الحد الأعلى للاختيار",
+  "staffEditRequiredField": "مطلوب",
+
+  "staffEditOptions": "الخيارات",
+  "staffEditAddOption": "إضافة خيار",
+  "staffEditRemoveOption": "حذف خيار",
+  "staffEditNoOptionsHint": "لا توجد خيارات بعد.",
+  "staffEditNoCustomizationsHint": "لا توجد تخصيصات لهذا المنتج. يمكنك إضافة مجموعات إذا لزم.",
+
+  "staffEditOptionNameEn": "اسم الخيار (إنجليزي)",
+  "staffEditOptionNameEnHint": "Original",
+  "staffEditPriceDelta": "فرق السعر (ر.س)",
+  "staffEditPriceDeltaHint": "فرق السعر يُضاف على سعر المنتج الأساسي (مثال: +2 ر.س).",
+
+
+
+  "staffEditProductNotFound": "المنتج غير موجود.",
+  "staffEditBasicInfoTitle": "المعلومات الأساسية",
+
+  "staffEditPriceSar": "السعر (ريال)",
+
+  "staffEditSortIndexOptional": "ترتيب العرض (اختياري)",
+  "staffEditActiveVisibleInMenu": "متاح (يظهر في المنيو)",
+  "staffEditCustomizationsTitle": "التخصيصات",
+  "staffEditCustomizationsHint": "لا توجد تخصيصات لهذا المنتج. يمكنك إضافة مجموعات عند الحاجة.",
+
+  "staffEditPickImage": "اضغطي هنا",
+  "staffEditPickImageHint": "لرفع صورة من الألبوم",
+  "staffEditUploadingImage": "جاري رفع الصورة...",
+  "staffEditImageSelected": "تم اختيار صورة",
+  "staffEditImageUploadSuccess": "تم رفع الصورة بنجاح.",
+  "staffEditSavedSuccess": "تم الحفظ بنجاح.",
+  "outOfStock": "غير متوفر",
+  "staffMenuBackfillIsActiveTooltip": "إضافة isActive",
+  "staffMenuBackfillIsActiveTitle": "إضافة isActive",
+  "staffMenuBackfillIsActiveBody": "هذا الإجراء سيضيف isActive=true للمنتجات التي لا تحتوي عليه.\n\nشغّليه مرة واحدة لكل كافيه ثم احذفي الزر من الكود.",
+  "staffMenuBackfillIsActiveConfirm": "تشغيل",
+  "staffMenuBackfillWorking": "جاري التنفيذ…",
+  "staffMenuBackfillDone": "تم ✅ تم تحديث {count} منتج",
+  "@staffMenuBackfillDone": {
+    "placeholders": {
+      "count": { "type": "int" }
+    }
+  },
+
+  "cafeItemNotAvailableBadge": "غير متوفر",
+  "cafeItemNotAvailableSnack": "هذا المنتج غير متوفر حالياً.",
+
+
+
+
+  "staffEditNoCustomizationsYet": "لا يوجد تخصيصات لهذا المنتج. يمكنك إضافة مجموعات إذا احتجت.",
+  "staffEditCustomizationGroup": "مجموعة تخصيص",
+
+  "staffEditGroupType": "نوع المجموعة",
+  "staffEditGroupTypeSingle": "اختيار واحد",
+  "staffEditGroupTypeMulti": "اختيارات متعددة",
+  "staffEditGroupRequired": "إجباري",
+  "staffEditGroupMaxSelectOptional": "الحد الأقصى للاختيارات (اختياري)",
+  "staffEditGroupMaxSelectHint": "اتركه فارغًا لبدون حد",
+  "staffEditOptionsTitle": "الخيارات",
+
+  "staffEditNoOptionsInGroup": "لا توجد خيارات في هذه المجموعة بعد.",
+  "staffEditOption": "خيار",
+
+  "staffEditOptionNameAr": "اسم الخيار (AR)",
+  "staffEditOptionPriceDelta": "فرق السعر (ريال)",
+
+  "staffEditDeleteOptionTitle": "حذف الخيار؟",
+  "staffEditDeleteOptionBody": "سيتم إزالة هذا الخيار من المجموعة.",
+
+  "staffEditOptionNameRequired": "رجاءً أدخل اسمًا واحدًا على الأقل (EN أو AR) لكل خيار.",
+
+
+  "staffAddItemTitle": "إضافة منتج",
+  "staffAddUploading": "جاري الرفع...",
+  "staffAddImageSelected": "تم اختيار صورة",
+  "staffAddClickHere": "اضغط هنا",
+  "staffAddUploadHint": "لرفع الصورة أو إسقاط الملف هنا",
+
+  "staffAddBasicInformationTitle": "المعلومات الأساسية",
+  "staffAddProductNameEn": "اسم المنتج (إنجليزي)",
+  "staffAddProductNameAr": "اسم المنتج (عربي)",
+  "staffAddProductNameEnHint": "Original Coffee",
+  "staffAddProductNameArHint": "قهوة",
+
+  "staffAddDescriptionEnOptional": "الوصف (إنجليزي) (اختياري)",
+  "staffAddDescriptionArOptional": "الوصف (عربي) (اختياري)",
+  "staffAddDescriptionEnHint": "نص نص نص",
+  "staffAddDescriptionArHint": "نص نص نص",
+
+  "staffAddCategoryEn": "التصنيف (إنجليزي)",
+  "staffAddCategoryAr": "التصنيف (عربي)",
+  "staffAddCategoryEnHint": "Hot Coffee",
+  "staffAddCategoryArHint": "قهوة ساخنة",
+
+  "staffAddSizesPricesTitle": "الأحجام والأسعار",
+  "staffAddAddSize": "إضافة حجم",
+  "staffAddNoSizesHint": "لا توجد أحجام مضافة. إذا ما بدك أحجام، اكتفي بتعبئة السعر الأساسي بالأسفل.",
+  "staffAddBasePriceIfNoSizes": "السعر الأساسي (ريال) (إذا ما في أحجام)",
+  "staffAddBasePriceRequiredOrAddSizes": "مطلوب (أو أضف أحجام)",
+  "staffAddBasePriceHint": "8.00",
+
+  "staffAddSizeName": "اسم الحجم",
+  "staffAddSizeNameHint": "صغير",
+  "staffAddSizePriceSar": "السعر (ريال)",
+  "staffAddSizePriceHint": "9.00",
+  "staffAddAvailable": "متاح",
+
+  "staffAddAddAdditionalTitle": "إضافات",
+  "staffAddAddAddon": "إضافة إضافة",
+  "staffAddNoAddonsHint": "لا توجد إضافات بعد. أضف خيارات مثل (شوت إضافي، سيرب... إلخ).",
+  "staffAddAddonName": "اسم الإضافة",
+  "staffAddAddonNameHint": "شوت إضافي",
+  "staffAddAddonPriceSar": "السعر (ريال)",
+  "staffAddAddonPriceHint": "3.00",
+
+  "staffAddOtherDetailsTitle": "تفاصيل أخرى",
+  "staffAddCaloriesOptional": "السعرات الحرارية (اختياري)",
+  "staffAddCaloriesHint": "0",
+  "staffAddPrepMinutes": "وقت التحضير بالدقائق",
+  "staffAddPrepMinutesHint": "3",
+  "staffAddSortIndexOptional": "ترتيب الظهور (اختياري)",
+  "staffAddSortIndexHint": "اتركه فارغًا إذا ما بدك تحدد",
+
+  "staffAddProductAvailabilityTitle": "توفر المنتج",
+  "staffAddProductAvailabilityBody": "تحكم بظهور هذا المنتج للزبائن",
+
+  "staffAddItemAddedSuccess": "تمت إضافة المنتج بنجاح ✅",
+  "staffAddCropTitle": "Crop Image",
+  "staffAddImageRequired": "Please select an image first.",
+  "scanQrTitle": "مسح رمز QR",
+  "scanQrButtonLabel": "مسح الرمز",
+  "orderLabel": "طلب",
+
+
+  "readyToPickUpIn": "جاهز للاستلام خلال...",
+  "showQrInCafeToReceive": "اعرض رمز QR في المقهى لاستلام طلبك",
+
+  "staffScanHint": "امسح رمز QR الخاص بالعميل لتأكيد تسليم الطلب",
+  "qrMismatch": "رمز QR لا يطابق هذا الطلب",
+  "invalidQr": "رمز QR غير صالح",
+  "qrVerifiedSuccess": "تم التحقق من الرمز وتسليم الطلب بنجاح",
+  "qrScanTitle": "مسح QR",
+  "qrScanHint": "وجّه الكاميرا نحو QR الخاص بالعميل للتحقق من الطلب.",
+  "qrToggleFlash": "الفلاش",
+  "qrSwitchCamera": "تبديل الكاميرا",
+  "qrOrderNotFound": "الطلب غير موجود.",
+  "qrOrderNotReady": "هذا الطلب ليس جاهزاً بعد.",
+  "qrOrderVerifiedAndPickedUp": "تم التحقق ✅ سلّم الطلب للعميل.",
+  "staffScanQrTitle": "مسح QR",
+  "staffQrScanInstruction": "امسح QR الخاص بالعميل لإكمال الطلب",
+  "staffQrVerifying": "جاري التحقق...",
+  "staffQrCompletedSuccess": "تم إكمال الطلب ✅",
+  "staffQrInvalidCode": "QR غير صالح",
+  "staffQrWrongOrder": "هذا الـ QR ليس لهذا الطلب",
+  "orderCompletedBody": "تم إكمال الطلب بنجاح.",
+  "staffAddCategorySelectLabel": "التصنيف",
+  "staffAddCategorySelectHint": "اختاري تصنيف موجود أو أضيفي تصنيف جديد",
+  "staffAddCategoryAddNewOption": "+ إضافة تصنيف جديد",
+  "staffAddCategorySelectedInfo": "المحدد: {en} • {ar}",
+  "staffAddCropDone": "تم",
+  "notificationsTimeJustNow": "الآن",
+  "notificationsTimeMinutesAgo": "قبل {minutes} دقيقة",
+  "notificationsTimeHoursAgo": "قبل {hours} ساعة",
+  "notificationsTimeDaysAgo": "قبل {days} يوم",
+
+
+  "notificationOrderPreparingTitle": "الطلب قيد التحضير",
+  "notificationOrderPreparingBody": "طلبك من {cafeName} (#{orderNumber}) قيد التحضير، وسيكون جاهزًا خلال {etaMinutes} دقيقة.",
+  "@notificationOrderPreparingBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" },
+      "orderNumber": { "type": "String" },
+      "etaMinutes": { "type": "int" }
+    }
+  },
+
+  "notificationOrderReadyTitle": "الطلب جاهز",
+  "notificationOrderReadyBody": "طلبك من {cafeName} (#{orderNumber}) جاهز للاستلام.",
+  "@notificationOrderReadyBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" },
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notificationOrderCompletedTitle": "تم إكمال الطلب",
+  "notificationOrderCompletedBody": "تم إكمال طلبك من {cafeName} (#{orderNumber}).",
+  "@notificationOrderCompletedBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" },
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notificationOrderCancelledTitle": "تم إلغاء الطلب",
+  "notificationOrderCancelledBody": "تم إلغاء طلبك من {cafeName} (#{orderNumber}).",
+  "@notificationOrderCancelledBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" },
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notificationAdTitle": "عرض جديد",
+  "notificationAdBody": "{text}",
+  "@notificationAdBody": {
+    "placeholders": {
+      "text": { "type": "String" }
+    }
+  },
+
+
+
+  "notifOrderPlacedTitle": "تم إنشاء الطلب رقم {orderNumber}",
+  "@notifOrderPlacedTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderPreparingTitle": "الطلب رقم {orderNumber} قيد التحضير",
+  "@notifOrderPreparingTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderReadyTitle": "الطلب رقم {orderNumber} جاهز",
+  "@notifOrderReadyTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderCompletedTitle": "تم إكمال الطلب رقم {orderNumber}",
+  "@notifOrderCompletedTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderCancelledTitle": "تم إلغاء الطلب رقم {orderNumber}",
+  "@notifOrderCancelledTitle": {
+    "placeholders": {
+      "orderNumber": { "type": "String" }
+    }
+  },
+
+  "notifOrderPlacedBody": "تم إنشاء طلبك من {cafeName} بنجاح.",
+  "@notifOrderPlacedBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+  "notifOrderPreparingBody": "بدأ {cafeName} بتحضير طلبك.",
+  "@notifOrderPreparingBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+  "notifOrderReadyBody": "طلبك من {cafeName} جاهز للاستلام.",
+  "@notifOrderReadyBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+  "notifOrderCompletedBody": "تم إكمال طلبك من {cafeName}.",
+  "@notifOrderCompletedBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+  "notifOrderCancelledBody": "تم إلغاء طلبك من {cafeName}.",
+  "@notifOrderCancelledBody": {
+    "placeholders": {
+      "cafeName": { "type": "String" }
+    }
+  },
+
+
+  "staffAdsTitle": "Ads",
+  "staffAdsAddButton": "Add Ads",
+  "staffAdsNoAds": "No ads yet.",
+  "staffAdsEditButton": "Edit Ads",
+  "staffAdsEditComingSoon": "Edit page coming soon",
+  "staffAdsDeleteConfirmTitle": "Delete ad?",
+  "staffAdsDeleteConfirmBody": "Are you sure you want to delete this ad?",
+  "staffAdsDelete": "Delete",
+  "staffAdsDeletedSnack": "Ad deleted",
+  "staffAdsAddedSuccess": "Ad added successfully",
+  "staffAdsStatusActive": "Active",
+  "staffAdsStatusHidden": "Hidden",
+
+  "staffAdsAddTitle": "Add Ads",
+  "staffAdsCropTitle": "Crop Image",
+  "staffAdsUploading": "Uploading...",
+  "staffAdsClickHere": "Click here",
+  "staffAdsUploadHint": "to upload or drop files here",
+  "staffAdsImageRequired": "Please upload an image",
+
+  "staffAdsNameLabel": "Ads Name",
+  "staffAdsNameHint": "Original Coffee",
+  "staffAdsDescriptionLabel": "Description",
+  "staffAdsDescriptionHint": "Text Text Text",
+
+  "staffAdsAvailabilityTitle": "Ads Availability",
+  "staffAdsAvailabilityBody": "Control whether this ad is visible to customers",
+  "saved": "تم الحفظ بنجاح",
+  "enterPassword": "الرجاء إدخال كلمة المرور",
+  "passwordMustBeAtLeast8Chars": "كلمة المرور يجب ألا تقل عن 8 أحرف",
+  "passwordMustIncludeCapital": "كلمة المرور يجب أن تحتوي على حرف كبير واحد على الأقل (A-Z)",
+  "passwordMustIncludeSymbol": "كلمة المرور يجب أن تحتوي على رمز واحد على الأقل (مثل ! @ #)",
+  "passwordPolicySnack": "كلمة المرور يجب ألا تقل عن 8 أحرف وأن تحتوي على حرف كبير ورمز",
+  "passwordRequirementsTitle": "متطلبات كلمة المرور",
+  "passwordReqMin8": "على الأقل 8 أحرف",
+  "passwordReqOneCapital": "على الأقل حرف كبير واحد (A-Z)",
+  "passwordReqOneSymbol": "على الأقل رمز واحد (مثل ! @ #)",
+  "passwordStrengthLabel": "قوة كلمة المرور",
+  "passwordStrengthWeak": "ضعيفة",
+  "passwordStrengthMedium": "متوسطة",
+  "passwordStrengthStrong": "قوية",
+  "passwordStrengthHint": "نصيحة: أضيفي أرقام وكلمة مرور أطول لتكون أقوى.",
+  "phoneDigitsOnly": "رقم الهاتف يجب أن يحتوي على أرقام فقط",
+  "phoneMin9Digits": "رقم الهاتف يجب ألا يقل عن 9 أرقام",
+  "phoneMax10Digits": "رقم الهاتف يجب ألا يزيد عن 10 أرقام",
+  "adsUnavailable": "الإعلانات غير متاحة حالياً",
+  "noOffersYet": "لا توجد عروض حالياً",
+  "imageFailedToLoad": "فشل تحميل الصورة",
+  "failedToOpenOffer": "تعذر فتح هذا العرض",
+  "cafeDefaultName": "مقهى",
+  "testCrowdPrediction": "اختبار توقع الازدحام",
+  "closed": "Closed",
+  "goodMorningWithName": "صباح الخير، {name}!",
+  "@goodMorningWithName": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+  "waitingForCafeAccept": "بانتظار قبول الطلب من المقهى",
+  "orderDelayedMessage": "طلبك يتأخر أكثر من المتوقع",
+  "pickupReminderMessage": "طلبك جاهز! لا تنسَ استلامه",
+  "deliveryLocationTitle": "موقع التوصيل",
+  "changeDeliveryLocation": "تغيير الموقع",
+  "useCurrentLocation": "استخدام موقعي الحالي",
+  "enterDeliveryLocationHint": "أدخل موقع التوصيل",
+  "deliveryLocationRequired": "يرجى تحديد موقع التوصيل أولاً",
+  "receivedButtonWaitingPartnerHint": "سيظهر زر تم الاستلام بعد قبول طلبك من قبل مندوبة التوصيل.",
+  "receivedButtonWaitingPaymentHint": "سيظهر زر تم الاستلام بعد إتمام دفع الطلب.",
+  "receivedButtonPreparingHint": "سيظهر زر تم الاستلام عندما يصبح الطلب في الطريق.",
+  "receivedButtonOnTheWayHint": "اضغطي على تم الاستلام بعد وصول الطلب.",
+  "receivedButtonCompletedHint": "تم إكمال هذا الطلب بالفعل.",
+  "selectQuantityFirst": "يرجى تحديد الكمية أولاً",
+  "goodAfternoon": "مساء الخير",
+  "goodAfternoonWithName": "مساء الخير، {name}!",
+  "@goodAfternoonWithName": {
+    "placeholders": {
+      "name": {}
+    }
+  },
+
+  "deliveryGirlsAvailableCount": "{count} متاحات",
+  "@deliveryGirlsAvailableCount": {
+    "placeholders": {
+      "count": {}
+    }
+  },
+
+  "currentLocationShort": "الموقع الحالي",
+  "deliveryStationLabel": "المحطة",
+  "deliveryCollegeLabel": "الكلية",
+  "deliveryFloorLabel": "الطابق",
+  "deliveryRoomLabel": "القاعة",
+  "deliveryRoomHint": "أدخلي رقم القاعة أو الغرفة",
+  "updateCart": "تحديث السلة",
+  "removeFromCart": "إزالة من السلة",
+  "cartUpdated": "تم تحديث السلة",
+  "removedFromCart": "تمت الإزالة من السلة",
+  "resetPasswordEmailSent": "تم إرسال رابط إعادة تعيين كلمة المرور إلى بريدك الإلكتروني",
+  "pointsValue": "{value} نقطة",
+  "@pointsValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "pointsPlusValue": "+{value} نقطة",
+  "@pointsPlusValue": {
+    "placeholders": {
+      "value": {}
+    }
+  },
+  "checkoutWallet": "المحفظة",
+  "checkoutPayFromWallet": "ادفعي باستخدام رصيد المحفظة",
+  "checkoutWalletBalanceSar": "الرصيد: {amount} ر.س",
+  "@checkoutWalletBalanceSar": {
+    "placeholders": {
+      "amount": {}
+    }
+  },
+  "checkoutWalletInsufficientBalance": "رصيد المحفظة غير كافٍ لهذا الطلب.",
+  "loading": "جاري التحميل...",
+  "walletBalanceLabel": "رصيد المحفظة",
+  "walletBalanceHint": "متاح للاستخدام عند الدفع",
+  "cafeClosedNow": "هذا الكافيه مغلق حاليًا.",
+
+  "rating1": "تقييم"
+}
