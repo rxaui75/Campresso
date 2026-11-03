@@ -80,9 +80,31 @@ The application was evaluated through functional testing and simulated order wor
 
 **She Innovates 2026** — Selected among the top 35 projects out of approximately 200 submissions.
 
+
 ## Application Screenshots
 
-*Screenshots of the customer application, café staff dashboard, and delivery experience will be added here.*
+### Customer Experience
+
+<p align="center">
+  <img src="screenshots/customer-home.png" width="30%" alt="Customer Home"/>
+  <img src="screenshots/customer-map.png" width="30%" alt="Campus Map"/>
+  <img src="screenshots/customer-menu.png" width="30%" alt="Café Menu"/>
+</p>
+
+<p align="center">
+  <img src="screenshots/customer-customization.png" width="30%" alt="Product Customization"/>
+  <img src="screenshots/customer-checkout.png" width="30%" alt="Smart Checkout"/>
+  <img src="screenshots/customer-order-tracking.png" width="30%" alt="Order Tracking"/>
+</p>
+
+### Café Staff Experience
+
+<p align="center">
+  <img src="screenshots/staff-dashboard.png" width="30%" alt="Staff Dashboard"/>
+  <img src="screenshots/staff-menu.png" width="30%" alt="Menu Management"/>
+  <img src="screenshots/staff-ads.png" width="30%" alt="Advertisement Management"/>
+</p>
+
 
 ## Project Status
 
