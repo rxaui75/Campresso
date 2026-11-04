@@ -110,6 +110,29 @@ The application was evaluated through functional testing and simulated order wor
 </p>
 
 
+## Video Demonstrations
+
+
+### Customer Experience
+
+Explore the complete customer journey in Campresso, from browsing campus cafés and customizing products to placing orders and tracking their status.
+
+[▶️ Watch Customer Experience Demonstration](https://youtube.com/shorts/8zJARQwvKko)
+
+### Delivery Experience
+
+Watch how Campresso connects customers with available delivery partners and coordinates deliveries across campus.
+
+[▶️ Watch Delivery Feature Demonstration](https://youtube.com/shorts/wOzQqO4iJJ0)
+
+
+### Café Staff Experience
+
+Discover how café staff use Campresso to manage incoming orders, update order statuses, organize menus, and manage advertisements.
+
+[▶️ Watch Café Staff Dashboard Demonstration](https://youtube.com/shorts/pl7Ml1mdFqM)
+
+
 ## Project Status
 
 Academic graduation project and functional prototype.
